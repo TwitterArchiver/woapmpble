@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079909368552943616",
+        "3_2079909569996955648",
+        "3_2079909727564365824"
+      ]
+    },
+    "author_id": "2067599818109984768",
+    "conversation_id": "2079909892828401781",
+    "created_at": "2026-07-22T12:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079909892828401781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HsFWidiLSu",
+          "end": 119,
+          "expanded_url": "https://x.com/woapmpble/status/2079909892828401781/photo/1",
+          "media_key": "3_2079909368552943616",
+          "start": 96,
+          "url": "https://t.co/HsFWidiLSu"
+        },
+        {
+          "display_url": "pic.x.com/HsFWidiLSu",
+          "end": 119,
+          "expanded_url": "https://x.com/woapmpble/status/2079909892828401781/photo/1",
+          "media_key": "3_2079909569996955648",
+          "start": 96,
+          "url": "https://t.co/HsFWidiLSu"
+        },
+        {
+          "display_url": "pic.x.com/HsFWidiLSu",
+          "end": 119,
+          "expanded_url": "https://x.com/woapmpble/status/2079909892828401781/photo/1",
+          "media_key": "3_2079909727564365824",
+          "start": 96,
+          "url": "https://t.co/HsFWidiLSu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079909892828401781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "技校因为我是精神病不要我，家里也不给我生活费了。钱也没有，爱也没有，饭也没有，药也没有了，未来也没有了我好崩溃，谁能给我一点点钱，一点点活下去的动力，我可以给你画画或者陪你聊天什么的求你们了 https://t.co/HsFWidiLSu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1037,
+        "media_key": "3_2079909368552943616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1SjQWa8AA7Q0g.jpg",
+        "width": 1037
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2079909569996955648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1Su-yaoAAx7rB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2079909727564365824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1S4JxagAAbPiB.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079909368552943616",
+            "3_2079909569996955648",
+            "3_2079909727564365824"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2079909892828401781",
+        "created_at": "2026-07-22T12:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079909892828401781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HsFWidiLSu",
+              "end": 119,
+              "expanded_url": "https://x.com/woapmpble/status/2079909892828401781/photo/1",
+              "media_key": "3_2079909368552943616",
+              "start": 96,
+              "url": "https://t.co/HsFWidiLSu"
+            },
+            {
+              "display_url": "pic.x.com/HsFWidiLSu",
+              "end": 119,
+              "expanded_url": "https://x.com/woapmpble/status/2079909892828401781/photo/1",
+              "media_key": "3_2079909569996955648",
+              "start": 96,
+              "url": "https://t.co/HsFWidiLSu"
+            },
+            {
+              "display_url": "pic.x.com/HsFWidiLSu",
+              "end": 119,
+              "expanded_url": "https://x.com/woapmpble/status/2079909892828401781/photo/1",
+              "media_key": "3_2079909727564365824",
+              "start": 96,
+              "url": "https://t.co/HsFWidiLSu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079909892828401781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "技校因为我是精神病不要我，家里也不给我生活费了。钱也没有，爱也没有，饭也没有，药也没有了，未来也没有了我好崩溃，谁能给我一点点钱，一点点活下去的动力，我可以给你画画或者陪你聊天什么的求你们了 https://t.co/HsFWidiLSu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 95,
+          "like_count": 2430,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 214
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2065444857687265637",
+    "created_at": "2026-06-19T14:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067977205704241471"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1733157188057853952",
+          "start": 0,
+          "username": "nigich436594"
+        },
+        {
+          "end": 26,
+          "id": "1891343742394937344",
+          "start": 14,
+          "username": "bai_fen9419"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067977205704241471",
+    "in_reply_to_user_id": "1733157188057853952",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065454279004131530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nigich436594 @bai_fen9419 求"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2065444857687265637",
+        "created_at": "2026-06-19T14:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067977205704241471"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1733157188057853952",
+              "start": 0,
+              "username": "nigich436594"
+            },
+            {
+              "end": 26,
+              "id": "1891343742394937344",
+              "start": 14,
+              "username": "bai_fen9419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067977205704241471",
+        "in_reply_to_user_id": "1733157188057853952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065454279004131530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nigich436594 @bai_fen9419 求"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733157188057853952",
+        "conversation_id": "2065444857687265637",
+        "created_at": "2026-06-12T15:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065454279004131530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1891343742394937344",
+              "start": 0,
+              "username": "bai_fen9419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065454279004131530",
+        "in_reply_to_user_id": "1891343742394937344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 312,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065444857687265637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bai_fen9419 我有一个20愈美65pr的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/",
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 22,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T16:10:56.000Z",
+        "description": "💕OD｜餐卷妹｜165 79｜正常聊天欢迎很爱说话｜直fo就是喜欢你吖",
+        "id": "1733157188057853952",
+        "location": "ᵟຶᴖ ᵟຶ",
+        "name": "想当幸福小猫",
+        "pinned_tweet_id": "2067070907714252991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066231620416471041/lX-zAlgu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 211,
+          "like_count": 2333,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 754
+        },
+        "url": "",
+        "username": "nigich436594",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T04:27:50.000Z",
+        "description": "🇨🇳/生心理女/coser/oder/自残\n喜欢可爱的女孩 喜欢和外国人聊天💕\n请不要因为我有不良嗜好而歧视我🥲\n🖤范谢❤️kaimei💙德莱 ❗左右位固定",
+        "id": "1891343742394937344",
+        "location": "➖〰️➖",
+        "name": "千合坏",
+        "pinned_tweet_id": "2064289979401187540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064265276515024896/GRKNnB0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 164,
+          "like_count": 411,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "bai_fen9419",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2080506580068688109",
+    "created_at": "2026-07-24T04:14:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:14:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080506904850428267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1404997135360270343",
+          "start": 0,
+          "username": "_yukinaOvO"
+        },
+        {
+          "end": 25,
+          "id": "1456748615368642560",
+          "start": 12,
+          "username": "TheDuckyyyyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080506904850428267",
+    "in_reply_to_user_id": "1404997135360270343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080506580068688109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_yukinaOvO @TheDuckyyyyy 你好萌。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2080506556073091072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9xsJOboAAo_lO.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2080506556421156864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9xsKhasAAvLdi.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080506556077228032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9xsJPawAAdjea.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080506556081385472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN9xsJQaMAAbAFM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2080506580068688109",
+        "created_at": "2026-07-24T04:14:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:14:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080506904850428267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1404997135360270343",
+              "start": 0,
+              "username": "_yukinaOvO"
+            },
+            {
+              "end": 25,
+              "id": "1456748615368642560",
+              "start": 12,
+              "username": "TheDuckyyyyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080506904850428267",
+        "in_reply_to_user_id": "1404997135360270343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080506580068688109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yukinaOvO @TheDuckyyyyy 你好萌。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080506556073091072",
+            "3_2080506556421156864",
+            "3_2080506556077228032",
+            "3_2080506556081385472"
+          ]
+        },
+        "author_id": "1404997135360270343",
+        "conversation_id": "2080506580068688109",
+        "created_at": "2026-07-24T04:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080506580068688109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1456748615368642560",
+              "start": 32,
+              "username": "TheDuckyyyyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nJb1teneYu",
+              "end": 86,
+              "expanded_url": "https://x.com/_yukinaOvO/status/2080506580068688109/photo/1",
+              "media_key": "3_2080506556073091072",
+              "start": 63,
+              "url": "https://t.co/nJb1teneYu"
+            },
+            {
+              "display_url": "pic.x.com/nJb1teneYu",
+              "end": 86,
+              "expanded_url": "https://x.com/_yukinaOvO/status/2080506580068688109/photo/1",
+              "media_key": "3_2080506556421156864",
+              "start": 63,
+              "url": "https://t.co/nJb1teneYu"
+            },
+            {
+              "display_url": "pic.x.com/nJb1teneYu",
+              "end": 86,
+              "expanded_url": "https://x.com/_yukinaOvO/status/2080506580068688109/photo/1",
+              "media_key": "3_2080506556077228032",
+              "start": 63,
+              "url": "https://t.co/nJb1teneYu"
+            },
+            {
+              "display_url": "pic.x.com/nJb1teneYu",
+              "end": 86,
+              "expanded_url": "https://x.com/_yukinaOvO/status/2080506580068688109/photo/1",
+              "media_key": "3_2080506556081385472",
+              "start": 63,
+              "url": "https://t.co/nJb1teneYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080506580068688109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "★˚₊⁺ 希望永远被爱°🐾˚𖦹\n\n叫我鹿角/Yukina\n最喜欢@TheDuckyyyyy \n\n我很温良，请不要对我恶语相向 https://t.co/nJb1teneYu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 121,
+          "like_count": 2676,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 278
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-16T03:00:05.000Z",
+        "description": "^⌯𖥦⌯^ ੭ 鹿角/Yukina❄️ 04┆碎碎念記錄合集┆水色🩵┆中文En OK、日本語勉強中┆音游┆繪畫┆毛绒大好き┆ハチワレ、湊友希那、リラックマ┆直fo成分回┆不喜歡我請滾出我的世界┆最爱@TheDuckyyyyy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 112,
+                "start": 99,
+                "username": "TheDuckyyyyy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@yuki_ovo_neko",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@yuki_ovo_neko",
+                "start": 0,
+                "url": "https://t.co/MI0cejXPTN"
+              }
+            ]
+          }
+        },
+        "id": "1404997135360270343",
+        "location": "｡ﾟ+.雨° 雪꜆˖♡* 貓咪/ᐠ - ˕ -マ Ⳋ",
+        "name": "Yuki._.Neko",
+        "pinned_tweet_id": "2080506580068688109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079184577940312064/VYDursNV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 346,
+          "like_count": 3404,
+          "listed_count": 0,
+          "media_count": 186,
+          "tweet_count": 1401
+        },
+        "url": "https://t.co/MI0cejXPTN",
+        "username": "_yukinaOvO",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-05T22:22:00.000Z",
+        "description": "",
+        "id": "1456748615368642560",
+        "name": "Ducky",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664584106980827138/zW2Tpt8J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 42,
+          "like_count": 50,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "url": "",
+        "username": "TheDuckyyyyy",
+        "verified": false
+      }
+    ]
+  }
+}

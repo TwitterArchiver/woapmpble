@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2074820064428302447",
+    "created_at": "2026-07-08T11:37:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T12:37:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074820064428302447"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2074820064428302447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天梦到约推友出来玩结果发现推油是初中的前亲，超级恐怖啊？！虽然在推上的社交连起步阶段都不算"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2074820064428302447",
+        "created_at": "2026-07-08T11:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T12:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074820064428302447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074820064428302447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天梦到约推友出来玩结果发现推油是初中的前亲，超级恐怖啊？！虽然在推上的社交连起步阶段都不算"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 42,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      }
+    ]
+  }
+}

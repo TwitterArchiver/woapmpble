@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081053078875459584"
+      ],
+      "media_source_tweet_id": [
+        "2081053090686632189"
+      ]
+    },
+    "author_id": "2067599818109984768",
+    "conversation_id": "2081208290185560119",
+    "created_at": "2026-07-26T02:41:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T03:41:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081208290185560119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1531146679906619392",
+          "start": 3,
+          "username": "ringo_duckkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qcLyPK74yv",
+          "end": 52,
+          "expanded_url": "https://x.com/ringo_duckkk/status/2081053090686632189/photo/1",
+          "media_key": "3_2081053078875459584",
+          "start": 29,
+          "url": "https://t.co/qcLyPK74yv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081208290185560119",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 909
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081053090686632189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ringo_duckkk: ❤️🔪❤️\n痴迷pa https://t.co/qcLyPK74yv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1952,
+        "media_key": "3_2081053078875459584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFiv9Ua0AA7xXB.jpg",
+        "width": 2980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081053078875459584"
+          ]
+        },
+        "author_id": "1531146679906619392",
+        "conversation_id": "2081053090686632189",
+        "created_at": "2026-07-25T16:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081053090686632189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcLyPK74yv",
+              "end": 34,
+              "expanded_url": "https://x.com/ringo_duckkk/status/2081053090686632189/photo/1",
+              "media_key": "3_2081053078875459584",
+              "start": 11,
+              "url": "https://t.co/qcLyPK74yv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081053090686632189",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1031,
+          "impression_count": 55538,
+          "like_count": 7674,
+          "quote_count": 9,
+          "reply_count": 10,
+          "retweet_count": 909
+        },
+        "reply_settings": "everyone",
+        "text": "❤️🔪❤️\n痴迷pa https://t.co/qcLyPK74yv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081053078875459584"
+          ],
+          "media_source_tweet_id": [
+            "2081053090686632189"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2081208290185560119",
+        "created_at": "2026-07-26T02:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T03:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081208290185560119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1531146679906619392",
+              "start": 3,
+              "username": "ringo_duckkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qcLyPK74yv",
+              "end": 52,
+              "expanded_url": "https://x.com/ringo_duckkk/status/2081053090686632189/photo/1",
+              "media_key": "3_2081053078875459584",
+              "start": 29,
+              "url": "https://t.co/qcLyPK74yv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081208290185560119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 909
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081053090686632189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ringo_duckkk: ❤️🔪❤️\n痴迷pa https://t.co/qcLyPK74yv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 131,
+          "like_count": 2873,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 321
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-30T05:33:20.000Z",
+        "description": "🐼/中文/English👌!\n同人作品頭像/壁纸👌★🚫私自搬運🚫AI🚫\n偶尔🔞😵⚠️",
+        "id": "1531146679906619392",
+        "name": "pydw",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864429665114574850/cZxI9bQG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9617,
+          "following_count": 211,
+          "like_count": 333,
+          "listed_count": 30,
+          "media_count": 78,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "ringo_duckkk",
+        "verified": false
+      }
+    ]
+  }
+}

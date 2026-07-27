@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2080987207230501096",
+    "created_at": "2026-07-25T12:22:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T13:22:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080992013437243844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1701232705386471424",
+          "start": 0,
+          "username": "denka0926"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080992013437243844",
+    "in_reply_to_user_id": "1701232705386471424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080987207230501096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@denka0926 宝宝怎么了摸摸"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4668,
+        "height": 1280,
+        "media_key": "13_2080987188242812928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080987188242812928/img/NH0r9hWYtfoPFQKZ.jpg",
+        "public_metrics": {
+          "view_count": 29
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080987188242812928/vid/avc1/320x568/at98cPTT8d6cXtlv.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080987188242812928/vid/avc1/480x852/MBVTVHvy4q63zutX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080987188242812928/vid/avc1/720x1280/y456XYYuERBqKka9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080987188242812928/pl/YUwYWRk-iOVQzQTH.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2080987207230501096",
+        "created_at": "2026-07-25T12:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080992013437243844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1701232705386471424",
+              "start": 0,
+              "username": "denka0926"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080992013437243844",
+        "in_reply_to_user_id": "1701232705386471424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080987207230501096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@denka0926 宝宝怎么了摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080987188242812928"
+          ]
+        },
+        "author_id": "1701232705386471424",
+        "conversation_id": "2080987207230501096",
+        "created_at": "2026-07-25T12:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080987207230501096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cC0YFwuGMd",
+              "end": 44,
+              "expanded_url": "https://x.com/denka0926/status/2080987207230501096/video/1",
+              "media_key": "13_2080987188242812928",
+              "start": 21,
+              "url": "https://t.co/cC0YFwuGMd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080987207230501096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 80,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想回家.好想爸爸妈妈\n化了妆不应该哭的 https://t.co/cC0YFwuGMd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 129,
+          "like_count": 2826,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-11T13:54:36.000Z",
+        "description": "they/them/泛性戀/09\n中/粵/Eng\nintj/🇭🇰/adhd/ptsd\n叫睡睡或者猫猫也行有点害羞怕生\n不会聊天不懂怎么经营账号别讨厌我\n皮下女但是性别认同是他们不喜欢被用她称呼\n回人特别慢不要嫌弃我特别敏感脆弱的小猫\n先看完再dm我别问这里有的东西\n不加别的app",
+        "id": "1701232705386471424",
+        "name": "睡睡",
+        "pinned_tweet_id": "2070560115317678275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775426305959542784/BJIB2fLT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4062,
+          "following_count": 17,
+          "like_count": 1313,
+          "listed_count": 4,
+          "media_count": 66,
+          "tweet_count": 518
+        },
+        "url": "",
+        "username": "denka0926",
+        "verified": false
+      }
+    ]
+  }
+}

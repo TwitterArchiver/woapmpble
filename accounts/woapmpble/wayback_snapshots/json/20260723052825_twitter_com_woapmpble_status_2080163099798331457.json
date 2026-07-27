@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2080132392132673542",
+    "created_at": "2026-07-23T05:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080163099798331457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1968940871660744705",
+          "start": 0,
+          "username": "guest07080279"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080163099798331457",
+    "in_reply_to_user_id": "1968940871660744705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080132392132673542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guest07080279 超卡瓦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2200,
+        "media_key": "3_2080132382368391168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4dYXja4AAVQzA.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2080132392132673542",
+        "created_at": "2026-07-23T05:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080163099798331457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1968940871660744705",
+              "start": 0,
+              "username": "guest07080279"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080163099798331457",
+        "in_reply_to_user_id": "1968940871660744705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080132392132673542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guest07080279 超卡瓦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080132382368391168"
+          ]
+        },
+        "author_id": "1968940871660744705",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080132392132673542",
+        "created_at": "2026-07-23T03:26:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T04:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080132392132673542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KMdmByFd0B",
+              "end": 43,
+              "expanded_url": "https://x.com/guest07080279/status/2080132392132673542/photo/1",
+              "media_key": "3_2080132382368391168",
+              "start": 20,
+              "url": "https://t.co/KMdmByFd0B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080132392132673542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完成~\n画满啦~一共花了5个小时这样子 https://t.co/KMdmByFd0B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 98,
+          "like_count": 2446,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-19T07:31:18.000Z",
+        "description": "❤️♻️👤长时间巡回中！\n无言关注失礼了！\n/中文ok  Eng&日本語 翻译器ok💖💖/   \n碎碎念@PaulaRiver9119  有负面预警😈⚠",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "PaulaRiver9119"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guest0708",
+                "end": 23,
+                "expanded_url": "https://ngl.link/guest0708",
+                "start": 0,
+                "url": "https://t.co/ifE2Zp4Uvd"
+              }
+            ]
+          }
+        },
+        "id": "1968940871660744705",
+        "location": "👫大欢迎♡——",
+        "name": "砂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050055162207846400/9aL-7zhd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 86,
+          "like_count": 9660,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 416
+        },
+        "url": "https://t.co/ifE2Zp4Uvd",
+        "username": "guest07080279",
+        "verified": true
+      }
+    ]
+  }
+}

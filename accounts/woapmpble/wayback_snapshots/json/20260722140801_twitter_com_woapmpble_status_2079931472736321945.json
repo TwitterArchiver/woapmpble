@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079930918832427008"
+      ]
+    },
+    "author_id": "2067599818109984768",
+    "conversation_id": "2079931472736321945",
+    "created_at": "2026-07-22T14:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079931472736321945"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sEzidpZeLM",
+          "end": 56,
+          "expanded_url": "https://x.com/woapmpble/status/2079931472736321945/photo/1",
+          "media_key": "3_2079930918832427008",
+          "start": 33,
+          "url": "https://t.co/sEzidpZeLM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079931472736321945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我也爱您，给我转钱的主人们都可以私信给我我给您们画画或者聊天解闷 https://t.co/sEzidpZeLM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2079930918832427008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1mJpZb0AAN_kp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079930918832427008"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2079931472736321945",
+        "created_at": "2026-07-22T14:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079931472736321945"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sEzidpZeLM",
+              "end": 56,
+              "expanded_url": "https://x.com/woapmpble/status/2079931472736321945/photo/1",
+              "media_key": "3_2079930918832427008",
+              "start": 33,
+              "url": "https://t.co/sEzidpZeLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079931472736321945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我也爱您，给我转钱的主人们都可以私信给我我给您们画画或者聊天解闷 https://t.co/sEzidpZeLM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 95,
+          "like_count": 2431,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      }
+    ]
+  }
+}

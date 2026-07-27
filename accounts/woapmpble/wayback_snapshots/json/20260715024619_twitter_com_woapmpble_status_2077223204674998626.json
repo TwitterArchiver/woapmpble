@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2077090990897463352",
+    "created_at": "2026-07-15T02:46:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T03:46:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077223204674998626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1564990471327215619",
+          "start": 0,
+          "username": "bisco91395061"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077223204674998626",
+    "in_reply_to_user_id": "1564990471327215619",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077090990897463352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bisco91395061 有我耶好开心！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3296,
+        "media_key": "3_2077090432283217920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNOvkaakAAuWUv.jpg",
+        "width": 2536
+      },
+      {
+        "height": 3324,
+        "media_key": "3_2077090432224550912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNNOvkMbYAAoWfA.jpg",
+        "width": 2792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2077090990897463352",
+        "created_at": "2026-07-15T02:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T03:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077223204674998626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1564990471327215619",
+              "start": 0,
+              "username": "bisco91395061"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077223204674998626",
+        "in_reply_to_user_id": "1564990471327215619",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077090990897463352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bisco91395061 有我耶好开心！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077090432283217920",
+            "3_2077090432224550912"
+          ]
+        },
+        "author_id": "1564990471327215619",
+        "conversation_id": "2077090990897463352",
+        "created_at": "2026-07-14T18:00:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T19:00:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077090990897463352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VkB4rWH444",
+              "end": 88,
+              "expanded_url": "https://x.com/bisco91395061/status/2077090990897463352/photo/1",
+              "media_key": "3_2077090432283217920",
+              "start": 65,
+              "url": "https://t.co/VkB4rWH444"
+            },
+            {
+              "display_url": "pic.x.com/VkB4rWH444",
+              "end": 88,
+              "expanded_url": "https://x.com/bisco91395061/status/2077090990897463352/photo/1",
+              "media_key": "3_2077090432224550912",
+              "start": 65,
+              "url": "https://t.co/VkB4rWH444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077090990897463352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 581,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于抄好了。。。。。！美金刚和普瑞让我看得半清不清的，如果写错了非常抱歉。。。。\n\n↓↓↓来看看有没有你吧！🥺🥺🥺💖👀🙌🏻↓↓↓ https://t.co/VkB4rWH444"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 72,
+          "like_count": 1921,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-31T14:56:34.000Z",
+        "description": "＝菜菜｜od自傷｜傻福精神病休學中｜LGBTQ🏳️‍🌈友好｜競馬🐎｜查成分回fo💖只回同类💖｜生理心理女 别再问了｜直fo是喜欢泥🤲💖",
+        "id": "1564990471327215619",
+        "location": "🚪52/188",
+        "name": "菜菜警官",
+        "pinned_tweet_id": "2050266190665388506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047006666068307968/ZVRv_hZa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 905,
+          "following_count": 377,
+          "like_count": 9358,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 1910
+        },
+        "url": "",
+        "username": "bisco91395061",
+        "verified": false
+      }
+    ]
+  }
+}

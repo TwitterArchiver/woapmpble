@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073930445243420672"
+      ],
+      "media_source_tweet_id": [
+        "2073930447894302859"
+      ]
+    },
+    "author_id": "2067599818109984768",
+    "conversation_id": "2074407122910298402",
+    "created_at": "2026-07-07T08:16:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T09:16:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074407122910298402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2067717108679708672",
+          "start": 3,
+          "username": "d6nht"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NeUgvrMY0i",
+          "end": 102,
+          "expanded_url": "https://x.com/d6nht/status/2073930447894302859/photo/1",
+          "media_key": "3_2073930445243420672",
+          "start": 79,
+          "url": "https://t.co/NeUgvrMY0i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074407122910298402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073930447894302859",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @d6nht: 为庆祝纸飞机号被封，抽奖\n橙普瑞一盒or2盒愈美片\n橙普瑞半盒or 1盒愈美片\n评论，转发，关注，点赞即可抽奖\n7.7号晚上22点开奖 https://t.co/NeUgvrMY0i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2073930445243420672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMgUwHWaEAAPjme.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073930445243420672"
+          ],
+          "media_source_tweet_id": [
+            "2073930447894302859"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2074407122910298402",
+        "created_at": "2026-07-07T08:16:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T09:16:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074407122910298402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2067717108679708672",
+              "start": 3,
+              "username": "d6nht"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NeUgvrMY0i",
+              "end": 102,
+              "expanded_url": "https://x.com/d6nht/status/2073930447894302859/photo/1",
+              "media_key": "3_2073930445243420672",
+              "start": 79,
+              "url": "https://t.co/NeUgvrMY0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074407122910298402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073930447894302859",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @d6nht: 为庆祝纸飞机号被封，抽奖\n橙普瑞一盒or2盒愈美片\n橙普瑞半盒or 1盒愈美片\n评论，转发，关注，点赞即可抽奖\n7.7号晚上22点开奖 https://t.co/NeUgvrMY0i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073930445243420672"
+          ]
+        },
+        "author_id": "2067717108679708672",
+        "conversation_id": "2073930447894302859",
+        "created_at": "2026-07-06T00:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T01:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073930447894302859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NeUgvrMY0i",
+              "end": 91,
+              "expanded_url": "https://x.com/d6nht/status/2073930447894302859/photo/1",
+              "media_key": "3_2073930445243420672",
+              "start": 68,
+              "url": "https://t.co/NeUgvrMY0i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073930447894302859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 224,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "为庆祝纸飞机号被封，抽奖\n橙普瑞一盒or2盒愈美片\n橙普瑞半盒or 1盒愈美片\n评论，转发，关注，点赞即可抽奖\n7.7号晚上22点开奖 https://t.co/NeUgvrMY0i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 38,
+          "like_count": 874,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T21:13:32.000Z",
+        "description": "可查买家反馈，药物购买渠道，视频验货",
+        "id": "2067717108679708672",
+        "location": "日本",
+        "name": "卖普瑞愈美",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073920704236617728/1QSdKbc9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 28,
+          "like_count": 9,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "d6nht",
+        "verified": false
+      }
+    ]
+  }
+}

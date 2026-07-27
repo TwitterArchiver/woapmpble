@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2074698940163993999",
+    "created_at": "2026-07-08T03:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074698940163993999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1626209229542666240",
+          "start": 3,
+          "username": "Himenoskyland"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074698940163993999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074326714365477118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Himenoskyland: 200fo了，抽一瓶普瑞巴林吧（等我拿到快递），只抽oder，150mg42t，反正我打算以后少吃点普瑞巴林了，转赞可参与，7.15开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2074698940163993999",
+        "created_at": "2026-07-08T03:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074698940163993999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1626209229542666240",
+              "start": 3,
+              "username": "Himenoskyland"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074698940163993999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074326714365477118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Himenoskyland: 200fo了，抽一瓶普瑞巴林吧（等我拿到快递），只抽oder，150mg42t，反正我打算以后少吃点普瑞巴林了，转赞可参与，7.15开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626209229542666240",
+        "conversation_id": "2074326714365477118",
+        "created_at": "2026-07-07T02:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074326714365477118"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074326714365477118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 750,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "200fo了，抽一瓶普瑞巴林吧（等我拿到快递），只抽oder，150mg42t，反正我打算以后少吃点普瑞巴林了，转赞可参与，7.15开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 40,
+          "like_count": 903,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-16T13:18:24.000Z",
+        "description": "∧＿ ∧ ＿ ∧\n(๑･ω･)•ㅅ•๑)\n/ ⌒ づ⊂ ⌒ ヽ୨",
+        "id": "1626209229542666240",
+        "location": "🚪52/88/188",
+        "name": "小真",
+        "pinned_tweet_id": "2073902630984917071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070800964089499648/dEvz2Fcc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 240,
+          "like_count": 1258,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 545
+        },
+        "url": "",
+        "username": "Himenoskyland",
+        "verified": false
+      }
+    ]
+  }
+}

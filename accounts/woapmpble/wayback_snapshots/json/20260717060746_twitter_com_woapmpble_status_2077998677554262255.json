@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2077998677554262255",
+    "created_at": "2026-07-17T06:07:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T07:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077998677554262255"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cutterparty/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/cutterparty/status/2077820174699213077",
+          "start": 5,
+          "url": "https://t.co/nxA08pp0on"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077998677554262255",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077820174699213077",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "产品概念 https://t.co/nxA08pp0on"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15137,
+        "height": 640,
+        "media_key": "13_2077820155774599168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077820155774599168/img/aVHP9XZSxtiNwhUD.jpg",
+        "public_metrics": {
+          "view_count": 132781
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077820155774599168/vid/avc1/320x568/PYE4pzTMDDx_Po9D.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077820155774599168/vid/avc1/360x640/vuoD_4aFLkedgqYr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077820155774599168/pl/Ks3PfSMVJVH76-BF.m3u8?v=cfc"
+          }
+        ],
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2077998677554262255",
+        "created_at": "2026-07-17T06:07:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T07:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077998677554262255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cutterparty/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/cutterparty/status/2077820174699213077",
+              "start": 5,
+              "url": "https://t.co/nxA08pp0on"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077998677554262255",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077820174699213077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "产品概念 https://t.co/nxA08pp0on"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077820155774599168"
+          ]
+        },
+        "author_id": "1971705409389187074",
+        "conversation_id": "2077820174699213077",
+        "created_at": "2026-07-16T18:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T19:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077820174699213077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRJdO9lsr4",
+              "end": 23,
+              "expanded_url": "https://x.com/cutterparty/status/2077820174699213077/video/1",
+              "media_key": "13_2077820155774599168",
+              "start": 0,
+              "url": "https://t.co/zRJdO9lsr4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077820174699213077",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 499,
+          "impression_count": 222430,
+          "like_count": 4334,
+          "quote_count": 16,
+          "reply_count": 9,
+          "retweet_count": 533
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zRJdO9lsr4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 83,
+          "like_count": 2122,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-26T22:36:23.000Z",
+        "description": "I Like Blood And Violence #everythingtwt 🩸🔨 #RDStwt #tonyalextwt @Tempocidal",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 26,
+                "tag": "everythingtwt"
+              },
+              {
+                "end": 51,
+                "start": 44,
+                "tag": "RDStwt"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "tag": "tonyalextwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "Tempocidal"
+              }
+            ]
+          }
+        },
+        "id": "1971705409389187074",
+        "location": "🇪🇺🇵🇱",
+        "name": "False Prophet",
+        "pinned_tweet_id": "2059699610268905909",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075614728924069888/o1gvk84E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 162,
+          "like_count": 2221,
+          "listed_count": 3,
+          "media_count": 55,
+          "tweet_count": 839
+        },
+        "url": "",
+        "username": "cutterparty",
+        "verified": false
+      }
+    ]
+  }
+}

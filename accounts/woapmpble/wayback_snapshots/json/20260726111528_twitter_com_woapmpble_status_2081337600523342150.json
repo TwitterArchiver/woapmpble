@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2081014269987242174",
+    "created_at": "2026-07-26T11:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T12:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081337600523342150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1395974045921730565",
+          "start": 0,
+          "username": "wsmGmkhYYK6Z9nc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081337600523342150",
+    "in_reply_to_user_id": "1395974045921730565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081014269987242174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsmGmkhYYK6Z9nc 内娱这个时代峰峻里面的都丑疯了，咋选的人呀笑死。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081014264408715264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOE_cqKaMAApMZg.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2081014269987242174",
+        "created_at": "2026-07-26T11:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T12:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081337600523342150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1395974045921730565",
+              "start": 0,
+              "username": "wsmGmkhYYK6Z9nc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081337600523342150",
+        "in_reply_to_user_id": "1395974045921730565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081014269987242174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsmGmkhYYK6Z9nc 内娱这个时代峰峻里面的都丑疯了，咋选的人呀笑死。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081014264408715264"
+          ]
+        },
+        "author_id": "1395974045921730565",
+        "conversation_id": "2081014269987242174",
+        "created_at": "2026-07-25T13:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081014269987242174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jXktn21GPY",
+              "end": 48,
+              "expanded_url": "https://x.com/wsmGmkhYYK6Z9nc/status/2081014269987242174/photo/1",
+              "media_key": "3_2081014264408715264",
+              "start": 25,
+              "url": "https://t.co/jXktn21GPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081014269987242174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 26517,
+          "like_count": 332,
+          "quote_count": 0,
+          "reply_count": 104,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "大哥你好丑，这尼玛也能收获粉丝，真无语，滚去整容 https://t.co/jXktn21GPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 137,
+          "like_count": 2903,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-22T05:25:35.000Z",
+        "description": "不撕逼，不吵架，专心经营自己的织毛衣生活\n喜欢旅游、医美、美甲、烘培、追星、玩乙游的小帅哥一枚。彩礼88w不带回，父母之恩无以为报。改口费10w，这是我们本地的规矩。有一师弟，婚房首付缺50w。父母年事已高，希望对方愿意与我一同孝敬师弟\nIP：湖北·孝感",
+        "id": "1395974045921730565",
+        "name": "世一惨",
+        "pinned_tweet_id": "2015771322165735555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080981698188279808/U-C_lLvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 1699,
+          "like_count": 4164,
+          "listed_count": 0,
+          "media_count": 172,
+          "tweet_count": 2470
+        },
+        "url": "",
+        "username": "wsmGmkhYYK6Z9nc",
+        "verified": false
+      }
+    ]
+  }
+}

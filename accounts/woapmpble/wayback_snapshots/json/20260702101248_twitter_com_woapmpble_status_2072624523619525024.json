@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2072624523619525024",
+    "created_at": "2026-07-02T10:12:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:12:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072624523619525024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1638747831296233473",
+          "start": 3,
+          "username": "biccomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072624523619525024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 404
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072560906903671205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @biccomi: 読者を選ぶ作品なのであまり大っぴらには言えませんが、究極の毒親が世界文学にまで昇華したマンガ『血の轍』が明日から全話無料。家族とか血縁がいかに狂気を孕んでいるか、経験ある人は深く頷き、知らずに生きてこられた人は衝撃で打ちのめされます。\n\nhttps:/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2072216919638503424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMH-TzCbcAAL0kG.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2072624523619525024",
+        "created_at": "2026-07-02T10:12:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:12:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072624523619525024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1638747831296233473",
+              "start": 3,
+              "username": "biccomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072624523619525024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 404
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072560906903671205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @biccomi: 読者を選ぶ作品なのであまり大っぴらには言えませんが、究極の毒親が世界文学にまで昇華したマンガ『血の轍』が明日から全話無料。家族とか血縁がいかに狂気を孕んでいるか、経験ある人は深く頷き、知らずに生きてこられた人は衝撃で打ちのめされます。\n\nhttps:/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072216919638503424"
+          ]
+        },
+        "author_id": "1638747831296233473",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2072560906903671205",
+        "created_at": "2026-07-02T06:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T07:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072560906903671205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "血の轍 by ビッコミ（ビッグコミックス） 絡み合った母子の絆…それは悲劇の”鎖”と変貌していく！？　　　　　　　　　　　　　　第50回アングレーム国際漫画祭「連続作品賞」受賞！ 母・静子からたっぷりの愛情を注がれ、平穏な日常を送る中学二年生の長部静一。しかしある夏の日、その穏やかな家庭は激変する。母・静子によって、狂瀾の奈落へと！！",
+              "display_url": "bigcomics.jp/series/fdb32d7…",
+              "end": 142,
+              "expanded_url": "https://bigcomics.jp/series/fdb32d71c8922/?utm_source=twitter&utm_medium=social&utm_campaign=X_20260702_chinowadachi_series_kokuchi",
+              "start": 119,
+              "status": 200,
+              "title": "血の轍",
+              "unwound_url": "https://bigcomics.jp/series/fdb32d71c8922/?utm_source=twitter&utm_medium=social&utm_campaign=X_20260702_chinowadachi_series_kokuchi",
+              "url": "https://t.co/QpPDJ4a35H"
+            },
+            {
+              "display_url": "pic.x.com/TLnjWajKhX",
+              "end": 166,
+              "expanded_url": "https://x.com/biccomi/status/2072560906903671205/photo/1",
+              "media_key": "3_2072216919638503424",
+              "start": 143,
+              "url": "https://t.co/TLnjWajKhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072560906903671205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 530,
+          "impression_count": 67384,
+          "like_count": 1139,
+          "quote_count": 115,
+          "reply_count": 0,
+          "retweet_count": 404
+        },
+        "reply_settings": "everyone",
+        "text": "読者を選ぶ作品なのであまり大っぴらには言えませんが、究極の毒親が世界文学にまで昇華したマンガ『血の轍』が明日から全話無料。家族とか血縁がいかに狂気を孕んでいるか、経験ある人は深く頷き、知らずに生きてこられた人は衝撃で打ちのめされます。\n\nhttps://t.co/QpPDJ4a35H https://t.co/TLnjWajKhX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 503,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T03:41:58.000Z",
+        "description": "小学館青年誌の漫画サイト「ビッコミ」公式📚 人気マンガを雑誌発売と同時更新📱ビッコミオリジナル連載や完結作も無料で読める‼️お問い合わせはサイトからお願いします🙇‍♂️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bigcomics.jp",
+                "end": 23,
+                "expanded_url": "https://bigcomics.jp/",
+                "start": 0,
+                "url": "https://t.co/woYLqPmoPs"
+              }
+            ]
+          }
+        },
+        "id": "1638747831296233473",
+        "location": " ※画像の無断転載NGです！",
+        "name": "ビッコミ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661211217799831554/XTAuWJ4g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30110,
+          "following_count": 259,
+          "like_count": 55,
+          "listed_count": 88,
+          "media_count": 5089,
+          "tweet_count": 6394
+        },
+        "url": "https://t.co/woYLqPmoPs",
+        "username": "biccomi",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2080161998508306704",
+    "created_at": "2026-07-23T16:20:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:20:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080327187769839701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2079763824220241920",
+          "start": 0,
+          "username": "fssxmycd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080327187769839701",
+    "in_reply_to_user_id": "2079763824220241920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080248812770312325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fssxmycd 好的，谢谢大人。。。我会努力争取一切变好的机会的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2080161998508306704",
+        "created_at": "2026-07-23T16:20:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080327187769839701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2079763824220241920",
+              "start": 0,
+              "username": "fssxmycd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080327187769839701",
+        "in_reply_to_user_id": "2079763824220241920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080248812770312325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fssxmycd 好的，谢谢大人。。。我会努力争取一切变好的机会的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079763824220241920",
+        "conversation_id": "2080161998508306704",
+        "created_at": "2026-07-23T11:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080248812770312325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067599818109984768",
+              "start": 0,
+              "username": "woapmpble"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080248812770312325",
+        "in_reply_to_user_id": "2067599818109984768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080161998508306704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woapmpble 加油，船到桥头自然直"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 113,
+          "like_count": 2596,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 254
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-22T03:04:49.000Z",
+        "description": "生日11.10        男\n音乐推：郭顶 薛之谦  陈奕迅 李荣浩 米津玄師\n游戏：火影手游 洲 暗区\n平常看看小说，看看番\n现实中的小透明   聊天可以私",
+        "id": "2079763824220241920",
+        "location": "福建",
+        "name": "富士山下没有我",
+        "pinned_tweet_id": "2079776842136080619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079766646231875584/LS4ka0kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 104
+        },
+        "url": "",
+        "username": "fssxmycd",
+        "verified": false
+      }
+    ]
+  }
+}

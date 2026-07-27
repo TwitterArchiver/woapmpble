@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2071932665897644272",
+    "created_at": "2026-06-30T12:23:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T13:23:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071932665897644272"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ZroMw_mw/statu…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/ZroMw_mw/status/2071886439126897100",
+          "start": 8,
+          "url": "https://t.co/jsZzmhtPrX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071932665897644272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071886439126897100",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太可爱了。。。 https://t.co/jsZzmhtPrX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 415,
+        "media_key": "3_2071886417605632000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDRuDBXIAAweKM.jpg",
+        "width": 580
+      },
+      {
+        "height": 340,
+        "media_key": "3_2071886417584607232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDRuC8WUAAihFt.jpg",
+        "width": 392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2071932665897644272",
+        "created_at": "2026-06-30T12:23:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T13:23:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071932665897644272"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZroMw_mw/statu…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ZroMw_mw/status/2071886439126897100",
+              "start": 8,
+              "url": "https://t.co/jsZzmhtPrX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071932665897644272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071886439126897100",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太可爱了。。。 https://t.co/jsZzmhtPrX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071886417605632000",
+            "3_2071886417584607232"
+          ]
+        },
+        "author_id": "936106609838718977",
+        "conversation_id": "2071886439126897100",
+        "created_at": "2026-06-30T09:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071886439126897100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Osnt0jnaCl",
+              "end": 43,
+              "expanded_url": "https://x.com/ZroMw_mw/status/2071886439126897100/photo/1",
+              "media_key": "3_2071886417605632000",
+              "start": 20,
+              "url": "https://t.co/Osnt0jnaCl"
+            },
+            {
+              "display_url": "pic.x.com/Osnt0jnaCl",
+              "end": 43,
+              "expanded_url": "https://x.com/ZroMw_mw/status/2071886439126897100/photo/1",
+              "media_key": "3_2071886417584607232",
+              "start": 20,
+              "url": "https://t.co/Osnt0jnaCl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071886439126897100",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 9365,
+          "like_count": 722,
+          "quote_count": 13,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "この髪型の菅田さん抜群に可愛いんだよな https://t.co/Osnt0jnaCl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 22,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-30T05:36:22.000Z",
+        "description": "ヲタクです",
+        "id": "936106609838718977",
+        "name": "呼吸",
+        "pinned_tweet_id": "1888161543755620818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1694290989949898753/9SpRkq-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6472,
+          "following_count": 151,
+          "like_count": 44138,
+          "listed_count": 42,
+          "media_count": 16553,
+          "tweet_count": 49279
+        },
+        "url": "",
+        "username": "ZroMw_mw",
+        "verified": false
+      }
+    ]
+  }
+}

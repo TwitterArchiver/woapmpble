@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2080915944193589407",
+    "created_at": "2026-07-25T08:38:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T09:38:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080935648295563395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1745160587292610560",
+          "start": 0,
+          "username": "GabrielFor6287"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080935648295563395",
+    "in_reply_to_user_id": "1745160587292610560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080915944193589407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GabrielFor6287 他好漂亮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3512,
+        "media_key": "3_2080915876677824512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODl9vTaMAAR6gp.jpg",
+        "width": 4080
+      },
+      {
+        "height": 3512,
+        "media_key": "3_2080915917614264320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODmAHzasAAsY07.jpg",
+        "width": 4080
+      },
+      {
+        "height": 3512,
+        "media_key": "3_2080915934114689024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODmBFRbMAANhPL.jpg",
+        "width": 4080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2080915944193589407",
+        "created_at": "2026-07-25T08:38:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:38:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080935648295563395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1745160587292610560",
+              "start": 0,
+              "username": "GabrielFor6287"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080935648295563395",
+        "in_reply_to_user_id": "1745160587292610560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080915944193589407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GabrielFor6287 他好漂亮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080915876677824512",
+            "3_2080915917614264320",
+            "3_2080915934114689024"
+          ]
+        },
+        "author_id": "1745160587292610560",
+        "conversation_id": "2080915944193589407",
+        "created_at": "2026-07-25T07:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080915944193589407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5mszMBOM4M",
+              "end": 40,
+              "expanded_url": "https://x.com/GabrielFor6287/status/2080915944193589407/photo/1",
+              "media_key": "3_2080915876677824512",
+              "start": 17,
+              "url": "https://t.co/5mszMBOM4M"
+            },
+            {
+              "display_url": "pic.x.com/5mszMBOM4M",
+              "end": 40,
+              "expanded_url": "https://x.com/GabrielFor6287/status/2080915944193589407/photo/1",
+              "media_key": "3_2080915917614264320",
+              "start": 17,
+              "url": "https://t.co/5mszMBOM4M"
+            },
+            {
+              "display_url": "pic.x.com/5mszMBOM4M",
+              "end": 40,
+              "expanded_url": "https://x.com/GabrielFor6287/status/2080915944193589407/photo/1",
+              "media_key": "3_2080915934114689024",
+              "start": 17,
+              "url": "https://t.co/5mszMBOM4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080915944193589407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚还抓了只壁虎很大一只（已放生 https://t.co/5mszMBOM4M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 129,
+          "like_count": 2778,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 300
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T19:08:06.000Z",
+        "description": "屌丝来上网了，欢迎互fo",
+        "id": "1745160587292610560",
+        "location": "250m",
+        "name": "屑鱼屑屑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005945705328959489/htAyuPqR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 223,
+          "like_count": 3673,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 809
+        },
+        "url": "",
+        "username": "GabrielFor6287",
+        "verified": false
+      }
+    ]
+  }
+}

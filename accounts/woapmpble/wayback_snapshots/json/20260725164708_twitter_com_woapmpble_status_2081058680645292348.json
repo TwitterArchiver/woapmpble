@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2069910798751666176"
+      ],
+      "media_source_tweet_id": [
+        "2069910808570581128"
+      ]
+    },
+    "author_id": "2067599818109984768",
+    "conversation_id": "2081058680645292348",
+    "created_at": "2026-07-25T16:47:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T17:47:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081058680645292348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2002689123682029568",
+          "start": 3,
+          "username": "hiigabyy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XO92SHvaEK",
+          "end": 90,
+          "expanded_url": "https://x.com/palmitely/status/2069910808570581128/video/1",
+          "media_key": "7_2069910798751666176",
+          "start": 67,
+          "url": "https://t.co/XO92SHvaEK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081058680645292348",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2937
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080625916938445302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hiigabyy: si ya adelgacé una vez por qué es tan dificil ahora  https://t.co/XO92SHvaEK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7300,
+        "height": 176,
+        "media_key": "7_2069910798751666176",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2069910798751666176/pu/img/tvHtsxwV-hoGIJ1c.jpg",
+        "public_metrics": {
+          "view_count": 131502
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2069910798751666176/pu/vid/avc1/176x176/nd-t2OlA0PvaIEP4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2069910798751666176/pu/pl/Tr8VhAieJW9EKCHB.m3u8?tag=12"
+          }
+        ],
+        "width": 176
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2069910798751666176"
+          ]
+        },
+        "author_id": "1506652035634110473",
+        "conversation_id": "2069910808570581128",
+        "created_at": "2026-06-24T22:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T23:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069910808570581128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQXkmcOPZs",
+              "end": 134,
+              "expanded_url": "https://x.com/palmitely/status/2069910808570581128/video/1",
+              "media_key": "7_2069910798751666176",
+              "start": 111,
+              "url": "https://t.co/fQXkmcOPZs"
+            },
+            {
+              "display_url": "x.com/sharkp1nk/stat…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/sharkp1nk/status/2069822400619770195",
+              "start": 135,
+              "url": "https://t.co/tq4cX6kDQF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069910808570581128",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 163857,
+          "like_count": 1217,
+          "quote_count": 10,
+          "reply_count": 14,
+          "retweet_count": 279
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069822400619770195",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "a pior maldiçao possível é estrutura ossea larga porque nao importa o quanto voce emagrece ela nunca vai mudar https://t.co/fQXkmcOPZs https://t.co/tq4cX6kDQF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2069910798751666176"
+          ],
+          "media_source_tweet_id": [
+            "2069910808570581128"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2081058680645292348",
+        "created_at": "2026-07-25T16:47:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081058680645292348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2002689123682029568",
+              "start": 3,
+              "username": "hiigabyy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XO92SHvaEK",
+              "end": 90,
+              "expanded_url": "https://x.com/palmitely/status/2069910808570581128/video/1",
+              "media_key": "7_2069910798751666176",
+              "start": 67,
+              "url": "https://t.co/XO92SHvaEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081058680645292348",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2937
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080625916938445302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hiigabyy: si ya adelgacé una vez por qué es tan dificil ahora  https://t.co/XO92SHvaEK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2069910798751666176"
+          ],
+          "media_source_tweet_id": [
+            "2069910808570581128"
+          ]
+        },
+        "author_id": "2002689123682029568",
+        "conversation_id": "2080625916938445302",
+        "created_at": "2026-07-24T12:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080625916938445302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XO92SHvaEK",
+              "end": 76,
+              "expanded_url": "https://x.com/palmitely/status/2069910808570581128/video/1",
+              "media_key": "7_2069910798751666176",
+              "start": 53,
+              "url": "https://t.co/XO92SHvaEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080625916938445302",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 106483,
+          "like_count": 14989,
+          "quote_count": 69,
+          "reply_count": 20,
+          "retweet_count": 2937
+        },
+        "reply_settings": "everyone",
+        "text": "si ya adelgacé una vez por qué es tan dificil ahora  https://t.co/XO92SHvaEK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 129,
+          "like_count": 2855,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-21T10:35:01.000Z",
+        "description": "cw: 70kg  1gw: 60kg  ugw: 52kg\n\nintentando volver a mi honeymoon era",
+        "id": "2002689123682029568",
+        "name": "gaby ♡",
+        "pinned_tweet_id": "2003438712651399507",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061519967846043648/aDFgCugi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 75,
+          "like_count": 846,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 159
+        },
+        "url": "",
+        "username": "hiigabyy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2081343110106460246",
+    "created_at": "2026-07-26T15:55:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T16:55:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081407998610808986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1664256777352019970",
+          "start": 0,
+          "username": "dieyinn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081407998610808986",
+    "in_reply_to_user_id": "1664256777352019970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081365946116215160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dieyinn hhhh。偷听出来输了两千。。。。。我的娘呀。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2081343110106460246",
+        "created_at": "2026-07-26T15:55:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T16:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081407998610808986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1664256777352019970",
+              "start": 0,
+              "username": "dieyinn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081407998610808986",
+        "in_reply_to_user_id": "1664256777352019970",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081365946116215160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dieyinn hhhh。偷听出来输了两千。。。。。我的娘呀。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1664256777352019970",
+        "conversation_id": "2081343110106460246",
+        "created_at": "2026-07-26T13:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T14:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081365946116215160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067599818109984768",
+              "start": 0,
+              "username": "woapmpble"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081365946116215160",
+        "in_reply_to_user_id": "2067599818109984768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081343110106460246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woapmpble 蛙趣很坏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 140,
+          "like_count": 2902,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-01T13:05:32.000Z",
+        "description": "雪霁梅芬，蝶引来生 \n| 男 |",
+        "id": "1664256777352019970",
+        "name": "dieyina",
+        "pinned_tweet_id": "2081094905527783427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081089932177670144/WSa9W_k1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 32,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 120
+        },
+        "url": "",
+        "username": "dieyinn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2080324183008203014",
+    "created_at": "2026-07-23T18:46:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T19:46:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080363896028971046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1809227152073863168",
+          "start": 0,
+          "username": "xinxin052866"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080363896028971046",
+    "in_reply_to_user_id": "1809227152073863168",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080326469864058967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinxin052866 ₍ᐢ..ᐢ₎ ༘♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2080324183008203014",
+        "created_at": "2026-07-23T18:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080363896028971046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1809227152073863168",
+              "start": 0,
+              "username": "xinxin052866"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080363896028971046",
+        "in_reply_to_user_id": "1809227152073863168",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080326469864058967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinxin052866 ₍ᐢ..ᐢ₎ ༘♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809227152073863168",
+        "conversation_id": "2080324183008203014",
+        "created_at": "2026-07-23T16:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080326469864058967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067599818109984768",
+              "start": 0,
+              "username": "woapmpble"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080326469864058967",
+        "in_reply_to_user_id": "2067599818109984768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080324183008203014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woapmpble 宝宝呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 120,
+          "like_count": 2638,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 269
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:06:11.000Z",
+        "description": "09 INFP-T 双子 | 高精力健全入 | 雷霆恋爱脑 | 大部分话为口嗨 | 狗啃日语勇闯日高ing",
+        "id": "1809227152073863168",
+        "location": "天国",
+        "name": "xin欣",
+        "pinned_tweet_id": "2080284010761089517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003009839216091136/x71o1FI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 88,
+          "like_count": 7933,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 454
+        },
+        "url": "",
+        "username": "xinxin052866",
+        "verified": true
+      }
+    ]
+  }
+}

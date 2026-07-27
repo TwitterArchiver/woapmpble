@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2080460893503242716",
+    "created_at": "2026-07-24T01:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T02:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080466206654652544"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2067717108679708672",
+          "start": 0,
+          "username": "d6nht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080466206654652544",
+    "in_reply_to_user_id": "2067717108679708672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080460893503242716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d6nht 继承什么，想要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2080460893503242716",
+        "created_at": "2026-07-24T01:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080466206654652544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2067717108679708672",
+              "start": 0,
+              "username": "d6nht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080466206654652544",
+        "in_reply_to_user_id": "2067717108679708672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080460893503242716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d6nht 继承什么，想要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067717108679708672",
+        "conversation_id": "2080460893503242716",
+        "created_at": "2026-07-24T01:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T02:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080460893503242716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080460893503242716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞巴林，愈美片戒断了，谁继承我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 120,
+          "like_count": 2658,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T21:13:32.000Z",
+        "description": "可查信誉，视频验货，闲鱼",
+        "id": "2067717108679708672",
+        "location": "日本",
+        "name": "賣p r y m",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073920704236617728/1QSdKbc9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 39,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "d6nht",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2077025226316226927",
+    "created_at": "2026-07-14T13:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T14:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077025226316226927"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077025226316226927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我只是个od小资历我挺心虚的。因为我之前只接触过ym一种药物虽然也是两三年前接触的了，但是中间起码有断断续续一年的时间不od（其实是o过头了被吓到了）现在和ym保持着30t左右的暧昧距离。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2077025226316226927",
+        "created_at": "2026-07-14T13:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T14:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077025226316226927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077025226316226927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我只是个od小资历我挺心虚的。因为我之前只接触过ym一种药物虽然也是两三年前接触的了，但是中间起码有断断续续一年的时间不od（其实是o过头了被吓到了）现在和ym保持着30t左右的暧昧距离。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 68,
+          "like_count": 1905,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 141
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      }
+    ]
+  }
+}

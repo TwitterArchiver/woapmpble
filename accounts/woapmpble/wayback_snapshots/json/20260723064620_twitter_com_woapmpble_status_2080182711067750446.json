@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080182256623325184"
+      ]
+    },
+    "author_id": "2067599818109984768",
+    "conversation_id": "2080182711067750446",
+    "created_at": "2026-07-23T06:46:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T07:46:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080182711067750446"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jr5GElWqKE",
+          "end": 91,
+          "expanded_url": "https://x.com/woapmpble/status/2080182711067750446/photo/1",
+          "media_key": "3_2080182256623325184",
+          "start": 68,
+          "url": "https://t.co/Jr5GElWqKE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080182711067750446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢你主任嘿嘿，，，可乐我喜欢喝冰可乐！但是现在胃不舒服之后再喝！宝宝们给我钱的我都爱你们如果看的上我画技的或者想找树洞的都可以找我呀 https://t.co/Jr5GElWqKE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 764,
+        "media_key": "3_2080182256623325184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5KvboakAA8DIv.jpg",
+        "width": 1045
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080182256623325184"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2080182711067750446",
+        "created_at": "2026-07-23T06:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T07:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080182711067750446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jr5GElWqKE",
+              "end": 91,
+              "expanded_url": "https://x.com/woapmpble/status/2080182711067750446/photo/1",
+              "media_key": "3_2080182256623325184",
+              "start": 68,
+              "url": "https://t.co/Jr5GElWqKE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080182711067750446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢你主任嘿嘿，，，可乐我喜欢喝冰可乐！但是现在胃不舒服之后再喝！宝宝们给我钱的我都爱你们如果看的上我画技的或者想找树洞的都可以找我呀 https://t.co/Jr5GElWqKE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 99,
+          "like_count": 2464,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      }
+    ]
+  }
+}

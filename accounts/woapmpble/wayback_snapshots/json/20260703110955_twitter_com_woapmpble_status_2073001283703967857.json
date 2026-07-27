@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10050189708",
+          "name": "メイドインアビス"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296305541338132480",
+          "name": "Made in Abyss"
+        }
+      }
+    ],
+    "conversation_id": "2073001283703967857",
+    "created_at": "2026-07-03T11:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T12:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073001283703967857"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 31,
+          "tag": "メイドインアビス"
+        },
+        {
+          "end": 123,
+          "start": 115,
+          "tag": "miabyss"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "801022933103611904",
+          "start": 3,
+          "username": "miabyss_anime"
+        }
+      ],
+      "urls": [
+        {
+          "description": "劇場シリーズ【第一部】メイドインアビス 目覚める神秘の公開劇場一覧ページです。",
+          "display_url": "eigakan.org/theaterpage/sc…",
+          "end": 114,
+          "expanded_url": "https://eigakan.org/theaterpage/schedule.php?t=miabyss1shinpi",
+          "start": 91,
+          "status": 200,
+          "title": "劇場シリーズ【第一部】メイドインアビス 目覚める神秘 劇場情報",
+          "unwound_url": "https://eigakan.org/theaterpage/schedule.php?t=miabyss1shinpi",
+          "url": "https://t.co/MT2tR7pGWe"
+        },
+        {
+          "display_url": "t.co/Fr",
+          "end": 139,
+          "start": 124,
+          "url": "https://t.co/Fr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073001283703967857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1992
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072968590463304170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miabyss_anime: 劇場シリーズ【第一部】\n#メイドインアビス 目覚める神秘 \n10月23日公開！\n\n🎥153館の上映劇場を公開！\nお近くの劇場をお探しください👀\nhttps://t.co/MT2tR7pGWe\n#miabyss https://t.co/Fr…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2072917992233676800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMR77l-asAAE6MD.jpg",
+        "width": 2849
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "2073001283703967857",
+        "created_at": "2026-07-03T11:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073001283703967857"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "メイドインアビス"
+            },
+            {
+              "end": 123,
+              "start": 115,
+              "tag": "miabyss"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "801022933103611904",
+              "start": 3,
+              "username": "miabyss_anime"
+            }
+          ],
+          "urls": [
+            {
+              "description": "劇場シリーズ【第一部】メイドインアビス 目覚める神秘の公開劇場一覧ページです。",
+              "display_url": "eigakan.org/theaterpage/sc…",
+              "end": 114,
+              "expanded_url": "https://eigakan.org/theaterpage/schedule.php?t=miabyss1shinpi",
+              "start": 91,
+              "status": 200,
+              "title": "劇場シリーズ【第一部】メイドインアビス 目覚める神秘 劇場情報",
+              "unwound_url": "https://eigakan.org/theaterpage/schedule.php?t=miabyss1shinpi",
+              "url": "https://t.co/MT2tR7pGWe"
+            },
+            {
+              "display_url": "t.co/Fr",
+              "end": 139,
+              "start": 124,
+              "url": "https://t.co/Fr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073001283703967857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1992
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072968590463304170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miabyss_anime: 劇場シリーズ【第一部】\n#メイドインアビス 目覚める神秘 \n10月23日公開！\n\n🎥153館の上映劇場を公開！\nお近くの劇場をお探しください👀\nhttps://t.co/MT2tR7pGWe\n#miabyss https://t.co/Fr…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072917992233676800"
+          ]
+        },
+        "author_id": "801022933103611904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10050189708",
+              "name": "メイドインアビス"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296305541338132480",
+              "name": "Made in Abyss"
+            }
+          }
+        ],
+        "conversation_id": "2072968590463304170",
+        "created_at": "2026-07-03T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072968590463304170"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "メイドインアビス"
+            },
+            {
+              "end": 104,
+              "start": 96,
+              "tag": "miabyss"
+            }
+          ],
+          "urls": [
+            {
+              "description": "劇場シリーズ【第一部】メイドインアビス 目覚める神秘の公開劇場一覧ページです。",
+              "display_url": "eigakan.org/theaterpage/sc…",
+              "end": 95,
+              "expanded_url": "https://eigakan.org/theaterpage/schedule.php?t=miabyss1shinpi",
+              "start": 72,
+              "status": 200,
+              "title": "劇場シリーズ【第一部】メイドインアビス 目覚める神秘 劇場情報",
+              "unwound_url": "https://eigakan.org/theaterpage/schedule.php?t=miabyss1shinpi",
+              "url": "https://t.co/MT2tR7pGWe"
+            },
+            {
+              "display_url": "pic.x.com/FrBmmzoR7I",
+              "end": 128,
+              "expanded_url": "https://x.com/miabyss_anime/status/2072968590463304170/photo/1",
+              "media_key": "3_2072917992233676800",
+              "start": 105,
+              "url": "https://t.co/FrBmmzoR7I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072968590463304170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 463,
+          "impression_count": 293653,
+          "like_count": 6727,
+          "quote_count": 248,
+          "reply_count": 32,
+          "retweet_count": 1992
+        },
+        "reply_settings": "everyone",
+        "text": "劇場シリーズ【第一部】\n#メイドインアビス 目覚める神秘 \n10月23日公開！\n\n🎥153館の上映劇場を公開！\nお近くの劇場をお探しください👀\nhttps://t.co/MT2tR7pGWe\n#miabyss https://t.co/FrBmmzoR7I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 23,
+          "like_count": 512,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-22T11:22:04.000Z",
+        "description": "「メイドインアビス」劇場シリーズアニメ化決定！\n【第1部】メイドインアビス 目覚める神秘 2026年公開！\nアニメーション制作：キネマシトラス\n原作漫画は「竹コミ！」にて連載中📖\n#miabyss",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 90,
+                "tag": "miabyss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "miabyss.com",
+                "end": 23,
+                "expanded_url": "http://miabyss.com",
+                "start": 0,
+                "url": "https://t.co/HWpAWtKhT5"
+              }
+            ]
+          }
+        },
+        "id": "801022933103611904",
+        "name": "アニメ「メイドインアビス」公式",
+        "pinned_tweet_id": "2057683072703946787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875373653222858752/scd5lBIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228502,
+          "following_count": 23,
+          "like_count": 12,
+          "listed_count": 1438,
+          "media_count": 1563,
+          "tweet_count": 5355
+        },
+        "url": "https://t.co/HWpAWtKhT5",
+        "username": "miabyss_anime",
+        "verified": true
+      }
+    ]
+  }
+}

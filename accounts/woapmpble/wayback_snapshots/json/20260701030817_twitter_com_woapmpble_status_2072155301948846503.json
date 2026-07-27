@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2072155301948846503",
+    "created_at": "2026-07-01T03:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T04:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072155301948846503"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/orcayne/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/orcayne/status/2072117248756425159",
+          "start": 6,
+          "url": "https://t.co/Sd0rSwWDB6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072155301948846503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072117248756425159",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我喜欢这个 https://t.co/Sd0rSwWDB6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3393,
+        "media_key": "3_2072117208243752960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMGjn1JX0AAML29.jpg",
+        "width": 1952
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2072155301948846503",
+        "created_at": "2026-07-01T03:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T04:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072155301948846503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/orcayne/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/orcayne/status/2072117248756425159",
+              "start": 6,
+              "url": "https://t.co/Sd0rSwWDB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072155301948846503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072117248756425159",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我喜欢这个 https://t.co/Sd0rSwWDB6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072117208243752960"
+          ]
+        },
+        "author_id": "1487517926919970821",
+        "conversation_id": "2072117248756425159",
+        "created_at": "2026-07-01T00:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T01:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072117248756425159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/R5RgnYnxDP",
+              "end": 38,
+              "expanded_url": "https://x.com/orcayne/status/2072117248756425159/photo/1",
+              "media_key": "3_2072117208243752960",
+              "start": 15,
+              "url": "https://t.co/R5RgnYnxDP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072117248756425159",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 3372,
+          "like_count": 647,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "leopard seal 2 https://t.co/R5RgnYnxDP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 61
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T20:09:29.000Z",
+        "description": "🫍 the sun is a deadly laser | alt - @caneorca",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "caneorca"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orcayne1.straw.page",
+                "end": 23,
+                "expanded_url": "https://orcayne1.straw.page",
+                "start": 0,
+                "url": "https://t.co/a2nM4Cdud5"
+              }
+            ]
+          }
+        },
+        "id": "1487517926919970821",
+        "location": "Butthead street",
+        "name": "orca",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051718017122172933/135r4ogP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9106,
+          "following_count": 241,
+          "like_count": 9855,
+          "listed_count": 9,
+          "media_count": 155,
+          "tweet_count": 1171
+        },
+        "url": "https://t.co/a2nM4Cdud5",
+        "username": "orcayne",
+        "verified": false
+      }
+    ]
+  }
+}

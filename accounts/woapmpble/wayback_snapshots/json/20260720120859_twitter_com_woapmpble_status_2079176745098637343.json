@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2079176745098637343",
+    "created_at": "2026-07-20T12:08:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T13:08:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079176745098637343"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aiaiaiai_9/sta…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/aiaiaiai_9/status/2075621297179287725",
+          "start": 5,
+          "url": "https://t.co/nkOQT2KRRd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079176745098637343",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075621297179287725",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可爱宝宝 https://t.co/nkOQT2KRRd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075621282318868482",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM4WjyTbYAIJRT4.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2079176745098637343",
+        "created_at": "2026-07-20T12:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T13:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079176745098637343"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aiaiaiai_9/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/aiaiaiai_9/status/2075621297179287725",
+              "start": 5,
+              "url": "https://t.co/nkOQT2KRRd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079176745098637343",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075621297179287725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可爱宝宝 https://t.co/nkOQT2KRRd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075621282318868482"
+          ]
+        },
+        "author_id": "1640751385502425088",
+        "conversation_id": "2075621297179287725",
+        "created_at": "2026-07-10T16:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T17:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075621297179287725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xbQ0SI8jG3",
+              "end": 95,
+              "expanded_url": "https://x.com/aiaiaiai_9/status/2075621297179287725/photo/1",
+              "media_key": "3_2075621282318868482",
+              "start": 72,
+              "url": "https://t.co/xbQ0SI8jG3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075621297179287725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5433,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "发一个自介吧！\n我是Naomin，坐标北京\n06双相上学中/偶尔健全人/目前已和前老公分手/尼古丁性恋\n喜欢和推友互动～聊天吹水互fo大欢迎～ https://t.co/xbQ0SI8jG3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 90,
+          "like_count": 2293,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 194
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T16:23:24.000Z",
+        "description": "爱无能乐子人\n世人害我，妒我，怨我，我却握紧手中的愈美一笑而过❤️https://t.co/zTLe1aRKzm⬅️提问箱\n没回复就是被吞评论了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/naomin86665",
+                "end": 56,
+                "expanded_url": "https://ngl.link/naomin86665",
+                "start": 33,
+                "url": "https://t.co/zTLe1aRKzm"
+              }
+            ]
+          }
+        },
+        "id": "1640751385502425088",
+        "name": "Naomin💵✨",
+        "pinned_tweet_id": "2075621297179287725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077030321720279040/Yp2xnY-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 129,
+          "like_count": 4240,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 913
+        },
+        "url": "",
+        "username": "aiaiaiai_9",
+        "verified": false
+      }
+    ]
+  }
+}

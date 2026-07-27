@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2076281387305574554",
+    "created_at": "2026-07-12T12:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T13:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076281387305574554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2040045603665698816",
+          "start": 3,
+          "username": "dD8740274718577"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076281387305574554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076255794333700459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dD8740274718577: 唉！真想把脸埋在女孩的胸里逃避人生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2076281387305574554",
+        "created_at": "2026-07-12T12:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T13:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076281387305574554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2040045603665698816",
+              "start": 3,
+              "username": "dD8740274718577"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076281387305574554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076255794333700459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dD8740274718577: 唉！真想把脸埋在女孩的胸里逃避人生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040045603665698816",
+        "conversation_id": "2076255794333700459",
+        "created_at": "2026-07-12T10:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076255794333700459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076255794333700459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 737,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "唉！真想把脸埋在女孩的胸里逃避人生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 54,
+          "like_count": 1323,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 115
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-03T12:36:10.000Z",
+        "description": "下贱的欲望\n所有内容皆为原创\n只有推特账号 祝你幸福，有缘见",
+        "id": "2040045603665698816",
+        "name": "恶魔69",
+        "pinned_tweet_id": "2047772862451482649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056101920956456960/Jg4MvcyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36446,
+          "following_count": 0,
+          "like_count": 52,
+          "listed_count": 27,
+          "media_count": 16,
+          "tweet_count": 991
+        },
+        "url": "",
+        "username": "dD8740274718577",
+        "verified": true
+      }
+    ]
+  }
+}

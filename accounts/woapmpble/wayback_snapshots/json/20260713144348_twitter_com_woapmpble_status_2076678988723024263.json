@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2076675743661330898",
+    "created_at": "2026-07-13T14:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T15:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076678988723024263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1922389433510461442",
+          "start": 0,
+          "username": "RieXwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076678988723024263",
+    "in_reply_to_user_id": "1922389433510461442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076675743661330898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RieXwX 宝宝好美丽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2076675729975312384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHVkt7agAAGOeO.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2076675743661330898",
+        "created_at": "2026-07-13T14:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076678988723024263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1922389433510461442",
+              "start": 0,
+              "username": "RieXwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076678988723024263",
+        "in_reply_to_user_id": "1922389433510461442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076675743661330898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RieXwX 宝宝好美丽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076675729975312384"
+          ]
+        },
+        "author_id": "1922389433510461442",
+        "conversation_id": "2076675743661330898",
+        "created_at": "2026-07-13T14:30:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076675743661330898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iB0oK4Ou0L",
+              "end": 23,
+              "expanded_url": "https://x.com/RieXwX/status/2076675743661330898/photo/1",
+              "media_key": "3_2076675729975312384",
+              "start": 0,
+              "url": "https://t.co/iB0oK4Ou0L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076675743661330898",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iB0oK4Ou0L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 65,
+          "like_count": 1548,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T20:32:33.000Z",
+        "description": "而我就是一个只爱打游戏的老实人，我什么也不懂。",
+        "id": "1922389433510461442",
+        "name": "リエ様",
+        "pinned_tweet_id": "1934267577569853845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978013469522960384/Ykrg_bKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10041,
+          "following_count": 53,
+          "like_count": 373,
+          "listed_count": 11,
+          "media_count": 369,
+          "tweet_count": 1336
+        },
+        "url": "",
+        "username": "RieXwX",
+        "verified": false
+      }
+    ]
+  }
+}

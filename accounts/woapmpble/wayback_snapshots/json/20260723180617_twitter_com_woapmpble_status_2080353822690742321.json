@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2079931472736321945",
+    "created_at": "2026-07-23T18:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T19:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080353822690742321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2079859346742079488",
+          "start": 0,
+          "username": "erikrulk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080353822690742321",
+    "in_reply_to_user_id": "2079859346742079488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079943539660935179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erikrulk 爱你。。大人。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2079931472736321945",
+        "created_at": "2026-07-23T18:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T19:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080353822690742321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2079859346742079488",
+              "start": 0,
+              "username": "erikrulk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080353822690742321",
+        "in_reply_to_user_id": "2079859346742079488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079943539660935179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erikrulk 爱你。。大人。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079859346742079488",
+        "conversation_id": "2079931472736321945",
+        "created_at": "2026-07-22T14:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079943539660935179"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067599818109984768",
+              "start": 0,
+              "username": "woapmpble"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079943539660935179",
+        "in_reply_to_user_id": "2067599818109984768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079931472736321945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woapmpble 不必，仅是散发爱意。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 118,
+          "like_count": 2638,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-22T09:24:00.000Z",
+        "description": "阴沉男  地雷系  轻度M  轻度S  视觉系 性瘾 无经验",
+        "id": "2079859346742079488",
+        "location": "无意义",
+        "name": "清晨-山东潍坊昌邑收ms",
+        "pinned_tweet_id": "2080010721929445398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079862586317615104/limddqSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 144,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 206
+        },
+        "url": "",
+        "username": "erikrulk",
+        "verified": false
+      }
+    ]
+  }
+}

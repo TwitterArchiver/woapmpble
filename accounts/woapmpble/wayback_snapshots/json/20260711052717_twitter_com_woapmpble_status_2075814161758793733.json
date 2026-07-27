@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2075814161758793733",
+    "created_at": "2026-07-11T05:27:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T06:27:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075814161758793733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1772153683578630144",
+          "start": 3,
+          "username": "caTwTouoi3l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075814161758793733",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 178
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075427108592238934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @caTwTouoi3l: 月经流的是脂肪就好了月经流的是脂肪就好了月经流的是脂肪就好了月经流的是脂肪就好了月经流的是脂肪就好了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2075814161758793733",
+        "created_at": "2026-07-11T05:27:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:27:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075814161758793733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1772153683578630144",
+              "start": 3,
+              "username": "caTwTouoi3l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075814161758793733",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 178
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075427108592238934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @caTwTouoi3l: 月经流的是脂肪就好了月经流的是脂肪就好了月经流的是脂肪就好了月经流的是脂肪就好了月经流的是脂肪就好了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772153683578630144",
+        "conversation_id": "2075427108592238934",
+        "created_at": "2026-07-10T03:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075427108592238934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075427108592238934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 92376,
+          "like_count": 2782,
+          "quote_count": 13,
+          "reply_count": 154,
+          "retweet_count": 178
+        },
+        "reply_settings": "everyone",
+        "text": "月经流的是脂肪就好了月经流的是脂肪就好了月经流的是脂肪就好了月经流的是脂肪就好了月经流的是脂肪就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 46,
+          "like_count": 1223,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T06:49:07.000Z",
+        "description": "⌯ᵔಲᵔಣ 妈妈@icecreamm718",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 8,
+                "username": "icecreamm718"
+              }
+            ]
+          }
+        },
+        "id": "1772153683578630144",
+        "location": "距离130m",
+        "name": "猫猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936171332711948288/aIygKQX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 44,
+          "like_count": 25,
+          "listed_count": 4,
+          "media_count": 32,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "caTwTouoi3l",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2080324183008203014",
+    "created_at": "2026-07-23T16:08:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T17:08:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080324183008203014"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xinxin052866/s…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/xinxin052866/status/2080284010761089517",
+          "start": 16,
+          "url": "https://t.co/KSx34yVT8A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080324183008203014",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080284010761089517",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "宝宝好可爱。/ᐠ ｡‸ ｡ᐟ\\ https://t.co/KSx34yVT8A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1480,
+        "media_key": "3_2080283979333206016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6nQeQXgAAf6Ro.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2080283979379359744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6nQebXwAAGL_Z.jpg",
+        "width": 900
+      },
+      {
+        "height": 566,
+        "media_key": "3_2080283978578173952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6nQbcWoAA6KkS.jpg",
+        "width": 552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2080324183008203014",
+        "created_at": "2026-07-23T16:08:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:08:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080324183008203014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinxin052866/s…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/xinxin052866/status/2080284010761089517",
+              "start": 16,
+              "url": "https://t.co/KSx34yVT8A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080324183008203014",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080284010761089517",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝宝好可爱。/ᐠ ｡‸ ｡ᐟ\\ https://t.co/KSx34yVT8A"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080283979333206016",
+            "3_2080283979379359744",
+            "3_2080283978578173952"
+          ]
+        },
+        "author_id": "1809227152073863168",
+        "conversation_id": "2080284010761089517",
+        "created_at": "2026-07-23T13:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080284010761089517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FCwvNc0hIb",
+              "end": 118,
+              "expanded_url": "https://x.com/xinxin052866/status/2080284010761089517/photo/1",
+              "media_key": "3_2080283979333206016",
+              "start": 95,
+              "url": "https://t.co/FCwvNc0hIb"
+            },
+            {
+              "display_url": "pic.x.com/FCwvNc0hIb",
+              "end": 118,
+              "expanded_url": "https://x.com/xinxin052866/status/2080284010761089517/photo/1",
+              "media_key": "3_2080283979379359744",
+              "start": 95,
+              "url": "https://t.co/FCwvNc0hIb"
+            },
+            {
+              "display_url": "pic.x.com/FCwvNc0hIb",
+              "end": 118,
+              "expanded_url": "https://x.com/xinxin052866/status/2080284010761089517/photo/1",
+              "media_key": "3_2080283978578173952",
+              "start": 95,
+              "url": "https://t.co/FCwvNc0hIb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080284010761089517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一则互fo\n♡这里是欣欣ᕱ⑅ᕱ  ྀི\n♡地雷係女子 喜欢可爱的一切\n♡雷霆恋爱脑 婉拒不喜欢我日常的&gt;ෆ&lt;\n♡具体都在p1了 妹宝摩多摩多\n♡希望我的互fo们天天开心永远幸福 https://t.co/FCwvNc0hIb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2076293302715068771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067814942951280640/NEh5B_Wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 113,
+          "like_count": 2596,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-05T14:06:11.000Z",
+        "description": "09 INFP-T 双子 | 高精力健全入 | 雷霆恋爱脑 | 大部分话为口嗨 | 狗啃日语勇闯日高ing",
+        "id": "1809227152073863168",
+        "location": "天国",
+        "name": "xin欣",
+        "pinned_tweet_id": "2080284010761089517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003009839216091136/x71o1FI6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 86,
+          "like_count": 7903,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 447
+        },
+        "url": "",
+        "username": "xinxin052866",
+        "verified": true
+      }
+    ]
+  }
+}
