@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081442612964433920"
+      ],
+      "media_source_tweet_id": [
+        "2081442622435139786"
+      ]
+    },
+    "author_id": "2067599818109984768",
+    "conversation_id": "2081603643829363168",
+    "created_at": "2026-07-27T04:52:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T05:52:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081603643829363168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1958182602839609344",
+          "start": 3,
+          "username": "Jangiteole"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qBRhXc4LL2",
+          "end": 39,
+          "expanded_url": "https://x.com/Jangiteole/status/2081442622435139786/photo/1",
+          "media_key": "3_2081442612964433920",
+          "start": 16,
+          "url": "https://t.co/qBRhXc4LL2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081603643829363168",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 587
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081442622435139786",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jangiteole: https://t.co/qBRhXc4LL2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2081442612964433920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOLFB04bIAALOVp.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081442612964433920"
+          ]
+        },
+        "author_id": "1958182602839609344",
+        "conversation_id": "2081442622435139786",
+        "created_at": "2026-07-26T18:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081442622435139786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBRhXc4LL2",
+              "end": 23,
+              "expanded_url": "https://x.com/Jangiteole/status/2081442622435139786/photo/1",
+              "media_key": "3_2081442612964433920",
+              "start": 0,
+              "url": "https://t.co/qBRhXc4LL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081442622435139786",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 330,
+          "impression_count": 28423,
+          "like_count": 3551,
+          "quote_count": 13,
+          "reply_count": 1,
+          "retweet_count": 587
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/qBRhXc4LL2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081442612964433920"
+          ],
+          "media_source_tweet_id": [
+            "2081442622435139786"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2081603643829363168",
+        "created_at": "2026-07-27T04:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081603643829363168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1958182602839609344",
+              "start": 3,
+              "username": "Jangiteole"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qBRhXc4LL2",
+              "end": 39,
+              "expanded_url": "https://x.com/Jangiteole/status/2081442622435139786/photo/1",
+              "media_key": "3_2081442612964433920",
+              "start": 16,
+              "url": "https://t.co/qBRhXc4LL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081603643829363168",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 587
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081442622435139786",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jangiteole: https://t.co/qBRhXc4LL2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 143,
+          "like_count": 2980,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 358
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-20T15:01:37.000Z",
+        "description": "장기적 장기 연습",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asked.kr/Jangiteole",
+                "end": 23,
+                "expanded_url": "https://asked.kr/Jangiteole",
+                "start": 0,
+                "url": "https://t.co/ujguw1bPHu"
+              }
+            ]
+          }
+        },
+        "id": "1958182602839609344",
+        "location": "ylmk7791@naver.com",
+        "name": "장기털이",
+        "pinned_tweet_id": "2071838711059472474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071505115333410816/SOR_W5gR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 31,
+          "like_count": 740,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/ujguw1bPHu",
+        "username": "Jangiteole",
+        "verified": false
+      }
+    ]
+  }
+}
