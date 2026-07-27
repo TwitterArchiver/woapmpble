@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-07-27T20:47:23",
+  "last_updated": "2026-07-27T20:47:53",
   "html": {
     "https://web.archive.org/web/20260622051006if_/https://twitter.com/woapmpble/status/2068924469545230651": {
       "status": "done",
@@ -3228,9 +3228,9 @@
       "referenced_by": [
         "20260623103338_twitter_com_woapmpble_status_2069368276535431475.json"
       ],
-      "last_updated": "2026-07-27T16:13:14",
+      "last_updated": "2026-07-27T20:47:42",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260623103338if_/https://pbs.twimg.com/profile_images/2067847899216740352/nLLgj08i_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg": {
       "status": "done",
@@ -3244,9 +3244,9 @@
       "referenced_by": [
         "20260625105918_twitter_com_woapmpble_status_2070099511813529939.json"
       ],
-      "last_updated": "2026-07-27T16:13:14",
+      "last_updated": "2026-07-27T20:47:49",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260625105918if_/https://pbs.twimg.com/profile_images/2043110120742133760/MdGgagJr_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2067502276424671232/GYC95UOj_normal.jpg": {
       "status": "done",
@@ -3382,13 +3382,13 @@
       "last_updated": "2026-07-27T16:13:09"
     },
     "https://pbs.twimg.com/profile_images/2051718017122172933/135r4ogP_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260701030817_twitter_com_woapmpble_status_2072155301948846503.json"
       ],
-      "last_updated": "2026-07-27T16:13:17",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260701030817if_/https://pbs.twimg.com/profile_images/2051718017122172933/135r4ogP_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-07-27T20:47:53",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260701030817im_/https://pbs.twimg.com/profile_images/2051718017122172933/135r4ogP_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f3f49900830>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1661211217799831554/XTAuWJ4g_normal.jpg": {
       "status": "done",
@@ -3754,11 +3754,11 @@
       "last_updated": "2026-07-27T16:13:11"
     },
     "https://pbs.twimg.com/profile_images/2074700266176471040/89nvzQQ1_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260720121836_twitter_com_woapmpble_status_2079179162754093235.json"
       ],
-      "last_updated": "2026-07-27T16:13:16",
+      "last_updated": "2026-07-27T20:47:53",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260720121836if_/https://pbs.twimg.com/profile_images/2074700266176471040/89nvzQQ1_normal.jpg",
       "miss_count": 1
     },
@@ -3937,14 +3937,14 @@
       "last_updated": "2026-07-27T16:13:11"
     },
     "https://pbs.twimg.com/profile_images/2079862586317615104/limddqSM_normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260723180617_twitter_com_woapmpble_status_2080353822690742321.json",
         "20260723180812_twitter_com_woapmpble_status_2080354308504363346.json",
         "20260723181234_twitter_com_woapmpble_status_2080355406808068456.json",
         "20260723181405_twitter_com_woapmpble_status_2080355789248832000.json"
       ],
-      "last_updated": "2026-07-27T16:13:15",
+      "last_updated": "2026-07-27T20:47:53",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260723181405if_/https://pbs.twimg.com/profile_images/2079862586317615104/limddqSM_normal.jpg",
       "miss_count": 1
     },
@@ -4969,7 +4969,7 @@
       "last_updated": "2026-07-27T16:13:09"
     },
     "20260701030817_twitter_com_woapmpble_status_2072155301948846503.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HMGjn1JX0AAML29.jpg"
@@ -4980,7 +4980,7 @@
           "https://pbs.twimg.com/profile_images/2051718017122172933/135r4ogP_normal.jpg"
         ]
       },
-      "last_updated": "2026-07-27T16:13:17"
+      "last_updated": "2026-07-27T20:47:53"
     },
     "20260701040220_twitter_com_woapmpble_status_2072168904953319563.json": {
       "status": "done",
