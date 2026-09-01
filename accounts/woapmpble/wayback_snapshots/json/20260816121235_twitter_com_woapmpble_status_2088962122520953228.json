@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2088962122520953228",
+    "created_at": "2026-08-16T12:12:35.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T13:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088962122520953228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2070858923431825408",
+          "start": 3,
+          "username": "safrerkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088962122520953228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088886733937213864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @safrerkv: 192fo了 打算再开一个抽奖 8月17号晚上10点开奖\n一等奖：20r微信转账\n二等奖：15r微信转账\n三等奖：10r微信转账\n参与方式 关注 转帖 评论"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2088962122520953228",
+        "created_at": "2026-08-16T12:12:35.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T13:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088962122520953228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2070858923431825408",
+              "start": 3,
+              "username": "safrerkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088962122520953228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088886733937213864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @safrerkv: 192fo了 打算再开一个抽奖 8月17号晚上10点开奖\n一等奖：20r微信转账\n二等奖：15r微信转账\n三等奖：10r微信转账\n参与方式 关注 转帖 评论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2088886733937213864",
+        "created_at": "2026-08-16T07:13:01.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:13:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088886733937213864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088886733937213864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1222,
+          "like_count": 72,
+          "quote_count": 0,
+          "reply_count": 56,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "192fo了 打算再开一个抽奖 8月17号晚上10点开奖\n一等奖：20r微信转账\n二等奖：15r微信转账\n三等奖：10r微信转账\n参与方式 关注 转帖 评论"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/最爱妻子\n@nobuyasuyuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "nobuyasuyuki"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "is_identity_verified": false,
+        "location": "子宫",
+        "most_recent_tweet_id": "2088962122520953228",
+        "name": "Womb",
+        "pinned_tweet_id": "2083171559217520791",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067599818109984768/1781840508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 192,
+          "like_count": 4608,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 541
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "MMDer/自残/infp/中国人/心理疾病/米游/二次/女/od/互fo/音游/vocaloid/gal吃/泛性恋 是个傻逼 会发负能 可以来找我聊天 不约不打炮 可以叫我相融 直fo就是喜欢你 我会发梗图",
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2088962127486955702",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 505,
+          "like_count": 945,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

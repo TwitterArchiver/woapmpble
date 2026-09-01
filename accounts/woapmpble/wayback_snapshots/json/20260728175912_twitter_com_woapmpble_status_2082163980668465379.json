@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082163918424899584",
+        "3_2082163945872429057"
+      ]
+    },
+    "author_id": "2067599818109984768",
+    "conversation_id": "2082163980668465379",
+    "created_at": "2026-07-28T17:59:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:59:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082163980668465379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gxuErQKSoh",
+          "end": 31,
+          "expanded_url": "https://x.com/woapmpble/status/2082163980668465379/photo/1",
+          "media_key": "3_2082163918424899584",
+          "start": 8,
+          "url": "https://t.co/gxuErQKSoh"
+        },
+        {
+          "display_url": "pic.x.com/gxuErQKSoh",
+          "end": 31,
+          "expanded_url": "https://x.com/woapmpble/status/2082163980668465379/photo/1",
+          "media_key": "3_2082163945872429057",
+          "start": 8,
+          "url": "https://t.co/gxuErQKSoh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082163980668465379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喜欢自嘲熊呀 https://t.co/gxuErQKSoh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082163918424899584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVVDVHaAAAQcov.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2082163945872429057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOVVE7XaEAE1h97.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082163918424899584",
+            "3_2082163945872429057"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2082163980668465379",
+        "created_at": "2026-07-28T17:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082163980668465379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gxuErQKSoh",
+              "end": 31,
+              "expanded_url": "https://x.com/woapmpble/status/2082163980668465379/photo/1",
+              "media_key": "3_2082163918424899584",
+              "start": 8,
+              "url": "https://t.co/gxuErQKSoh"
+            },
+            {
+              "display_url": "pic.x.com/gxuErQKSoh",
+              "end": 31,
+              "expanded_url": "https://x.com/woapmpble/status/2082163980668465379/photo/1",
+              "media_key": "3_2082163945872429057",
+              "start": 8,
+              "url": "https://t.co/gxuErQKSoh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082163980668465379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢自嘲熊呀 https://t.co/gxuErQKSoh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 169,
+          "like_count": 3221,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 398
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      }
+    ]
+  }
+}

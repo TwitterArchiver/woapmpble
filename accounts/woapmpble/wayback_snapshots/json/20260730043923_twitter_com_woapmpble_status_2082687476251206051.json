@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2082374491314044978",
+    "created_at": "2026-07-30T04:39:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:39:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082687476251206051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2056648018083082240",
+          "start": 0,
+          "username": "n4r1d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082687476251206051",
+    "in_reply_to_user_id": "2056648018083082240",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082678491359953069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@n4r1d 笑死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2082374491314044978",
+        "created_at": "2026-07-30T04:39:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:39:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082687476251206051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2056648018083082240",
+              "start": 0,
+              "username": "n4r1d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082687476251206051",
+        "in_reply_to_user_id": "2056648018083082240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082678491359953069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@n4r1d 笑死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056648018083082240",
+        "conversation_id": "2082374491314044978",
+        "created_at": "2026-07-30T04:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082678491359953069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067599818109984768",
+              "start": 0,
+              "username": "woapmpble"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082678491359953069",
+        "in_reply_to_user_id": "2067599818109984768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082374491314044978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woapmpble 发片然后我去下面免😹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 176,
+          "like_count": 3457,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 445
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T08:08:32.000Z",
+        "description": "觉得翻墙出来就高人一等台独狗汉奸都被我操死了😹本人原名孙笑川，性别为琪， OD自残😹你骂我也没招",
+        "id": "2056648018083082240",
+        "name": "夜神月",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082666458962935808/-NBuFLUc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 24,
+          "like_count": 579,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 53
+        },
+        "url": "",
+        "username": "n4r1d",
+        "verified": false
+      }
+    ]
+  }
+}

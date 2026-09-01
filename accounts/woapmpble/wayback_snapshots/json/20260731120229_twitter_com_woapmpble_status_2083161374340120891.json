@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2083116526216020169",
+    "created_at": "2026-07-31T12:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083161374340120891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2057324764599824384",
+          "start": 0,
+          "username": "whitney96ga8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083161374340120891",
+    "in_reply_to_user_id": "2057324764599824384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083128946871382066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitney96ga8 嘿嘿谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2083116526216020169",
+        "created_at": "2026-07-31T12:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083161374340120891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2057324764599824384",
+              "start": 0,
+              "username": "whitney96ga8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083161374340120891",
+        "in_reply_to_user_id": "2057324764599824384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083128946871382066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitney96ga8 嘿嘿谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057324764599824384",
+        "conversation_id": "2083116526216020169",
+        "created_at": "2026-07-31T09:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T10:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083128946871382066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067599818109984768",
+              "start": 0,
+              "username": "woapmpble"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083128946871382066",
+        "in_reply_to_user_id": "2067599818109984768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083116526216020169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woapmpble 帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 185,
+          "like_count": 3848,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 482
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T04:57:08.000Z",
+        "description": "🧊｜只发自己想发的。｜04｜男的｜1i/4i｜有对象了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/whitney96ga8",
+                "end": 23,
+                "expanded_url": "https://ngl.link/whitney96ga8",
+                "start": 0,
+                "url": "https://t.co/sGth0YLZ1Y"
+              }
+            ]
+          }
+        },
+        "id": "2057324764599824384",
+        "location": "电子世界",
+        "name": "冬。",
+        "pinned_tweet_id": "2081715853645779237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083053352603275264/R9vaPnKv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 20,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 153
+        },
+        "url": "https://t.co/sGth0YLZ1Y",
+        "username": "whitney96ga8",
+        "verified": false
+      }
+    ]
+  }
+}

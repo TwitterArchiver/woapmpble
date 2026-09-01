@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082372610239913984",
+        "3_2082372694700621824"
+      ]
+    },
+    "author_id": "2067599818109984768",
+    "conversation_id": "2082372754310062517",
+    "created_at": "2026-07-29T07:48:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T08:48:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082372754310062517"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/r82pIXng2d",
+          "end": 57,
+          "expanded_url": "https://x.com/woapmpble/status/2082372754310062517/photo/1",
+          "media_key": "3_2082372610239913984",
+          "start": 34,
+          "url": "https://t.co/r82pIXng2d"
+        },
+        {
+          "display_url": "pic.x.com/r82pIXng2d",
+          "end": 57,
+          "expanded_url": "https://x.com/woapmpble/status/2082372754310062517/photo/1",
+          "media_key": "3_2082372694700621824",
+          "start": 34,
+          "url": "https://t.co/r82pIXng2d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082372754310062517",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谢谢宝宝呀，，，刚才哭吐了现在胃不舒服！看到宝宝的赞赏开心了好多！ https://t.co/r82pIXng2d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 813,
+        "media_key": "3_2082372610239913984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYS2ytaYAAo6_i.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1037,
+        "media_key": "3_2082372694700621824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYS7tWagAAv9ik.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082372610239913984",
+            "3_2082372694700621824"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2082372754310062517",
+        "created_at": "2026-07-29T07:48:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T08:48:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082372754310062517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r82pIXng2d",
+              "end": 57,
+              "expanded_url": "https://x.com/woapmpble/status/2082372754310062517/photo/1",
+              "media_key": "3_2082372610239913984",
+              "start": 34,
+              "url": "https://t.co/r82pIXng2d"
+            },
+            {
+              "display_url": "pic.x.com/r82pIXng2d",
+              "end": 57,
+              "expanded_url": "https://x.com/woapmpble/status/2082372754310062517/photo/1",
+              "media_key": "3_2082372694700621824",
+              "start": 34,
+              "url": "https://t.co/r82pIXng2d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082372754310062517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢宝宝呀，，，刚才哭吐了现在胃不舒服！看到宝宝的赞赏开心了好多！ https://t.co/r82pIXng2d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 171,
+          "like_count": 3335,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      }
+    ]
+  }
+}

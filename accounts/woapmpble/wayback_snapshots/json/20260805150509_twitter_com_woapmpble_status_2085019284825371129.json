@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2085019284825371129",
+    "created_at": "2026-08-05T15:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T16:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085019284825371129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "877473366684221440",
+          "start": 3,
+          "username": "083001c1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085019284825371129",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085015248252359082",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @083001c1: 巡回"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2085019284825371129",
+        "created_at": "2026-08-05T15:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085019284825371129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "877473366684221440",
+              "start": 3,
+              "username": "083001c1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085019284825371129",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085015248252359082",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @083001c1: 巡回"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "877473366684221440",
+        "conversation_id": "2085015248252359082",
+        "created_at": "2026-08-05T14:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085015248252359082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuda3_8964/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/yuda3_8964/status/2084992594824851920",
+              "start": 3,
+              "url": "https://t.co/T1DwaPpPCU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085015248252359082",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084992594824851920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "巡回 https://t.co/T1DwaPpPCU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2083171559217520791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 194,
+          "like_count": 4178,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 504
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-21T10:28:48.000Z",
+        "description": "💊/🔪/同类互fo(:3っ )っ\n可以叫我奥七\n\n*私信功能无法使用，联系可评论区问我邮箱\n防炸小号@KrishnaBha9e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 50,
+                "username": "KrishnaBha9e"
+              }
+            ]
+          }
+        },
+        "id": "877473366684221440",
+        "name": "O seven (3.0",
+        "pinned_tweet_id": "2083565283453943995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083290018194558976/iHyUhoSS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 84,
+          "like_count": 845,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 238
+        },
+        "url": "",
+        "username": "083001c1",
+        "verified": false
+      }
+    ]
+  }
+}

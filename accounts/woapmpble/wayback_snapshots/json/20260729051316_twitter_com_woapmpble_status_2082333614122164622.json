@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2082296688719610022",
+    "created_at": "2026-07-29T05:13:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T06:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082333614122164622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1491692173653204993",
+          "start": 0,
+          "username": "sunnan61952547"
+        },
+        {
+          "end": 27,
+          "id": "1805999677592268800",
+          "start": 16,
+          "username": "1needYumm_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082333614122164622",
+    "in_reply_to_user_id": "1491692173653204993",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082318165238026368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunnan61952547 @1needYumm_ 沙县好吃！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2082296688719610022",
+        "created_at": "2026-07-29T05:13:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082333614122164622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491692173653204993",
+              "start": 0,
+              "username": "sunnan61952547"
+            },
+            {
+              "end": 27,
+              "id": "1805999677592268800",
+              "start": 16,
+              "username": "1needYumm_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082333614122164622",
+        "in_reply_to_user_id": "1491692173653204993",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082318165238026368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunnan61952547 @1needYumm_ 沙县好吃！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491692173653204993",
+        "conversation_id": "2082296688719610022",
+        "created_at": "2026-07-29T04:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082318165238026368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1805999677592268800",
+              "start": 0,
+              "username": "1needYumm_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082318165238026368",
+        "in_reply_to_user_id": "1805999677592268800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082296688719610022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1needYumm_ 吃个沙县吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 171,
+          "like_count": 3276,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 418
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-10T08:35:11.000Z",
+        "description": "石头滚下山坡的瞬间，我获得短暂的自由",
+        "id": "1491692173653204993",
+        "location": "万事屋",
+        "name": "马孔多在下雨",
+        "pinned_tweet_id": "1999482675233697952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043345864903815169/YVJeIO79_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 119,
+          "like_count": 3911,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 1127
+        },
+        "url": "",
+        "username": "sunnan61952547",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-26T16:21:05.000Z",
+        "description": "一个长得丑的穷逼在发疯",
+        "id": "1805999677592268800",
+        "location": "不爱男不爱女只爱心肝和自己",
+        "name": "小众忧郁名字",
+        "pinned_tweet_id": "2080628724249280777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012722623994556417/WLf7KCL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 36,
+          "like_count": 4818,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 1642
+        },
+        "url": "",
+        "username": "1needYumm_",
+        "verified": false
+      }
+    ]
+  }
+}

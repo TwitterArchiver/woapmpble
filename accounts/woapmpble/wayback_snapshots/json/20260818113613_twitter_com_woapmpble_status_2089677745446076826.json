@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2089677745446076826",
+    "created_at": "2026-08-18T11:36:13.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089677745446076826"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2089677745446076826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给我点钱吧求求你们了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2089677745446076826",
+        "created_at": "2026-08-18T11:36:13.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089677745446076826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089677745446076826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我点钱吧求求你们了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/最爱妻子\n@nobuyasuyuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "nobuyasuyuki"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "is_identity_verified": false,
+        "location": "子宫",
+        "most_recent_tweet_id": "2089677745446076826",
+        "name": "Womb",
+        "pinned_tweet_id": "2083171559217520791",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067599818109984768/1781840508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 199,
+          "like_count": 4708,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 558
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

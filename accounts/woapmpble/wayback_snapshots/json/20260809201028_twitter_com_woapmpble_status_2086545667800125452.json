@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2086292752925696443",
+    "created_at": "2026-08-09T20:10:28.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T21:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086545667800125452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2079859346742079488",
+          "start": 0,
+          "username": "erikrulk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086545667800125452",
+    "in_reply_to_user_id": "2079859346742079488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086292752925696443",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erikrulk 笑死我了你成功了你进步了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2086292752925696443",
+        "created_at": "2026-08-09T20:10:28.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T21:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086545667800125452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2079859346742079488",
+              "start": 0,
+              "username": "erikrulk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086545667800125452",
+        "in_reply_to_user_id": "2079859346742079488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086292752925696443",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erikrulk 笑死我了你成功了你进步了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079859346742079488",
+        "conversation_id": "2086292752925696443",
+        "created_at": "2026-08-09T03:25:28.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T04:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086292752925696443"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086292752925696443",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有些话憋在心里真的不好，又没地方诉说，我决定了，今天起推特就是我的垃圾桶，我不要只做别人的垃圾桶了！我也要往外倒！我真的呈不下啦！桀桀桀\n啊哈哈哈哈（巴巴尔笑声）\n┗( ´・∧・｀)┛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/最爱妻子\n@nobuyasuyuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "nobuyasuyuki"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "is_identity_verified": false,
+        "location": "子宫",
+        "most_recent_tweet_id": "2086545667800125452",
+        "name": "Womb",
+        "pinned_tweet_id": "2083171559217520791",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067599818109984768/1781840508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 206,
+          "like_count": 4530,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 526
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T09:24:00.000Z",
+        "description": "阴沉男  地雷系  轻度M  轻度S  视觉系  斯德哥尔摩（梦中）   躁狂 抑郁 自卑 焦虑 敏感 多疑 强迫 社恐 共情 躯体化 ZC  病娇   无工作   ENFJ  没有钱，我再重申一遍，在我这里得不到钱！（但是可以为爱人去赚～来成为我的爱人吧！），被开过盒（可能确实惨没有被发出来） 因重度双相，没有X能力",
+        "id": "2079859346742079488",
+        "is_identity_verified": false,
+        "location": "中国山东1129423380",
+        "most_recent_tweet_id": "2086441220407243014",
+        "name": "清晨",
+        "pinned_tweet_id": "2080010721929445398",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079859346742079488/1784793959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080390177709850624/Gjf1xos4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 230,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 303
+        },
+        "url": "",
+        "username": "erikrulk",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

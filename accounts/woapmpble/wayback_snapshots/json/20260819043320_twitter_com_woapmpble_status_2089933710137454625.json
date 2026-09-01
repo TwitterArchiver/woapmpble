@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2089918754981593307",
+    "created_at": "2026-08-19T04:33:20.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T05:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089933710137454625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1801534903626121216",
+          "start": 0,
+          "username": "qngshu988723424"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089933710137454625",
+    "in_reply_to_user_id": "1801534903626121216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089918754981593307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qngshu988723424 好萌呀好喜欢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1033,
+        "media_key": "3_2089918693170204672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDh-oPb0AAmoAi.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2089918693136543744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDh-oHaMAAEnqP.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 40100,
+        "height": 720,
+        "media_key": "13_2089918693157621760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089918693157621760/img/YNvq0ExdgqDJC1WV.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089918693157621760/vid/avc1/480x270/tsbH2Qh54xjZGyI9.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089918693157621760/vid/avc1/640x360/tAsZjxYsUjztJaO-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089918693157621760/vid/avc1/1280x720/DAKCE3xcmX4b4mrS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089918693157621760/pl/WxTRjuvZefYGGzZC.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089918693136629760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQDh-oHbgAAhHWZ.jpg",
+        "width": 826
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2089918754981593307",
+        "created_at": "2026-08-19T04:33:20.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T05:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089933710137454625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1801534903626121216",
+              "start": 0,
+              "username": "qngshu988723424"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089933710137454625",
+        "in_reply_to_user_id": "1801534903626121216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089918754981593307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qngshu988723424 好萌呀好喜欢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089918693170204672",
+            "3_2089918693136543744",
+            "13_2089918693157621760",
+            "3_2089918693136629760"
+          ]
+        },
+        "author_id": "1801534903626121216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089918754981593307",
+        "created_at": "2026-08-19T03:33:54.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T04:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089918754981593307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AzyJaQrCwK",
+              "end": 82,
+              "expanded_url": "https://x.com/qngshu988723424/status/2089918754981593307/video/1",
+              "media_key": "3_2089918693170204672",
+              "start": 59,
+              "url": "https://t.co/AzyJaQrCwK"
+            },
+            {
+              "display_url": "pic.x.com/AzyJaQrCwK",
+              "end": 82,
+              "expanded_url": "https://x.com/qngshu988723424/status/2089918754981593307/video/1",
+              "media_key": "3_2089918693136543744",
+              "start": 59,
+              "url": "https://t.co/AzyJaQrCwK"
+            },
+            {
+              "display_url": "pic.x.com/AzyJaQrCwK",
+              "end": 82,
+              "expanded_url": "https://x.com/qngshu988723424/status/2089918754981593307/video/1",
+              "media_key": "13_2089918693157621760",
+              "start": 59,
+              "url": "https://t.co/AzyJaQrCwK"
+            },
+            {
+              "display_url": "pic.x.com/AzyJaQrCwK",
+              "end": 82,
+              "expanded_url": "https://x.com/qngshu988723424/status/2089918754981593307/video/1",
+              "media_key": "3_2089918693136629760",
+              "start": 59,
+              "url": "https://t.co/AzyJaQrCwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089918754981593307",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089918693170204672"
+          },
+          {
+            "media_key": "3_2089918693136543744"
+          },
+          {
+            "media_key": "13_2089918693157621760"
+          },
+          {
+            "media_key": "3_2089918693136629760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我太懒了直接拿上次的鸟介绍图了。哇我发现我发的太糊了看不清气死我了再发有点尴尬然后但是欢迎互动。\n可以叫我清水/72 https://t.co/AzyJaQrCwK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/最爱妻子\n@nobuyasuyuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 18,
+                "username": "nobuyasuyuki"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "is_identity_verified": false,
+        "location": "子宫",
+        "most_recent_tweet_id": "2089933710137454625",
+        "name": "Womb",
+        "pinned_tweet_id": "2083171559217520791",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2067599818109984768/1781840508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 206,
+          "like_count": 4799,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-14T08:39:35.000Z",
+        "description": "enby/和鸟每天抢吃的/一分钟发八条/说话很人机可能博关注,谢谢你们祝你们身体健康可能🩸💊内容|| @Ace_Purin←点击关注布丁谢谢喵，这个是很可爱说话也很萌的人。@PP_Konig←这个是我的好妈妈，可以多和她们互动！这个布丁很好互动也很有意思，盐鸦妈妈特别温柔，然后我特别喜欢这个人，希望我们都能开心。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "Ace_Purin"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "PP_Konig"
+              }
+            ]
+          }
+        },
+        "id": "1801534903626121216",
+        "is_identity_verified": false,
+        "location": "鸟笼",
+        "most_recent_tweet_id": "2089926232368656676",
+        "name": "rotaka",
+        "pinned_tweet_id": "2089918754981593307",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1801534903626121216/1751515393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017539398498455559/yoqs9-Hg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 804,
+          "like_count": 11130,
+          "listed_count": 1,
+          "media_count": 752,
+          "tweet_count": 9780
+        },
+        "url": "",
+        "username": "qngshu988723424",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2083781715810779557",
+    "created_at": "2026-08-02T05:07:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:07:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083781715810779557"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yuki281331/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/Yuki281331/status/2083472052636594342",
+          "start": 6,
+          "url": "https://t.co/6mqAvU5GIK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083781715810779557",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083472052636594342",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "岐哥陨落了 https://t.co/6mqAvU5GIK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2150,
+        "media_key": "3_2083472043211907072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOn6yNsaYAA-d1-.jpg",
+        "width": 2126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2083781715810779557",
+        "created_at": "2026-08-02T05:07:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:07:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083781715810779557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yuki281331/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/Yuki281331/status/2083472052636594342",
+              "start": 6,
+              "url": "https://t.co/6mqAvU5GIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083781715810779557",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083472052636594342",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "岐哥陨落了 https://t.co/6mqAvU5GIK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083472043211907072"
+          ]
+        },
+        "author_id": "2082124926375649280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083472052636594342",
+        "created_at": "2026-08-01T08:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083472052636594342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RCTsoE3qbc",
+              "end": 106,
+              "expanded_url": "https://x.com/Yuki281331/status/2083472052636594342/photo/1",
+              "media_key": "3_2083472043211907072",
+              "start": 83,
+              "url": "https://t.co/RCTsoE3qbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083472052636594342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2288,
+          "like_count": 75,
+          "quote_count": 3,
+          "reply_count": 43,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "你们好，我的初号机因为挑衅马斯克被击毁，我已看不见抽奖转帖情况，不嫌麻烦的朋友可以帮转此贴\n我将重新在此贴以相同方式开奖，截止在8.5日\n我是岐哥，互fo寻回\n谢谢 https://t.co/RCTsoE3qbc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2083171559217520791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 189,
+          "like_count": 3896,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 467
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-28T15:25:30.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n此号被ban了无法点赞互动评论回关发帖，等我解ban慢慢回fo\n@Yuki312813 前世",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 47,
+                "username": "Yuki312813"
+              }
+            ]
+          }
+        },
+        "id": "2082124926375649280",
+        "location": "衫之宫区 北校 C栋楼顶",
+        "name": "岐哥，梦想哭了。2.0。",
+        "pinned_tweet_id": "2083472052636594342",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083530016269516802/YkVotD8i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 118,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "Yuki281331",
+        "verified": false
+      }
+    ]
+  }
+}

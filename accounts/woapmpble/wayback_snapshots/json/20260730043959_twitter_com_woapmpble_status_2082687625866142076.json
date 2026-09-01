@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2082374491314044978",
+    "created_at": "2026-07-30T04:39:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082687625866142076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2073500528596992000",
+          "start": 0,
+          "username": "likemcworld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082687625866142076",
+    "in_reply_to_user_id": "2073500528596992000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082433014722912538",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@likemcworld 对的对的感受到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2082374491314044978",
+        "created_at": "2026-07-30T04:39:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082687625866142076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2073500528596992000",
+              "start": 0,
+              "username": "likemcworld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082687625866142076",
+        "in_reply_to_user_id": "2073500528596992000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082433014722912538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@likemcworld 对的对的感受到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2073500528596992000",
+        "conversation_id": "2082374491314044978",
+        "created_at": "2026-07-29T11:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T12:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082433014722912538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067599818109984768",
+              "start": 0,
+              "username": "woapmpble"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082433014722912538",
+        "in_reply_to_user_id": "2067599818109984768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082374491314044978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woapmpble 最快就是发涩情的，剩下的发可爱照片或者性感唉反正推特是这样的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 176,
+          "like_count": 3457,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 446
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-04T20:14:27.000Z",
+        "description": "him",
+        "id": "2073500528596992000",
+        "location": "陕西",
+        "name": "sdht",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082081123325366274/GunvyBZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 52,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 237
+        },
+        "url": "",
+        "username": "likemcworld",
+        "verified": false
+      }
+    ]
+  }
+}

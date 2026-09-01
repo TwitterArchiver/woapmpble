@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082746388975435776",
+        "3_2082746388954378240",
+        "3_2082746388979625984",
+        "3_2082746388945981440"
+      ],
+      "media_source_tweet_id": [
+        "2082746407346376710",
+        "2082746407346376710",
+        "2082746407346376710",
+        "2082746407346376710"
+      ]
+    },
+    "author_id": "2067599818109984768",
+    "conversation_id": "2082747362972438871",
+    "created_at": "2026-07-30T08:37:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T09:37:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082747362972438871"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 57,
+          "start": 54,
+          "tag": "门槛"
+        },
+        {
+          "end": 62,
+          "start": 58,
+          "tag": "门槛妹"
+        },
+        {
+          "end": 67,
+          "start": 63,
+          "tag": "爸爸活"
+        },
+        {
+          "end": 71,
+          "start": 68,
+          "tag": "非绿"
+        },
+        {
+          "end": 75,
+          "start": 72,
+          "tag": "线下"
+        },
+        {
+          "end": 81,
+          "start": 76,
+          "tag": "金主爸爸"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2059326143640276992",
+          "start": 3,
+          "username": "Huhiosc3x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7xoS0xBwSR",
+          "end": 105,
+          "expanded_url": "https://x.com/Huhiosc3x/status/2082746407346376710/photo/1",
+          "media_key": "3_2082746388975435776",
+          "start": 82,
+          "url": "https://t.co/7xoS0xBwSR"
+        },
+        {
+          "display_url": "pic.x.com/7xoS0xBwSR",
+          "end": 105,
+          "expanded_url": "https://x.com/Huhiosc3x/status/2082746407346376710/photo/1",
+          "media_key": "3_2082746388954378240",
+          "start": 82,
+          "url": "https://t.co/7xoS0xBwSR"
+        },
+        {
+          "display_url": "pic.x.com/7xoS0xBwSR",
+          "end": 105,
+          "expanded_url": "https://x.com/Huhiosc3x/status/2082746407346376710/photo/1",
+          "media_key": "3_2082746388979625984",
+          "start": 82,
+          "url": "https://t.co/7xoS0xBwSR"
+        },
+        {
+          "display_url": "pic.x.com/7xoS0xBwSR",
+          "end": 105,
+          "expanded_url": "https://x.com/Huhiosc3x/status/2082746407346376710/photo/1",
+          "media_key": "3_2082746388945981440",
+          "start": 82,
+          "url": "https://t.co/7xoS0xBwSR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082747362972438871",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082746407346376710",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Huhiosc3x: 置顶🔝\n没钱买药了总之我要下海，求求宝宝们互转！可以和门槛妹还有同类互关互转！#门槛 #门槛妹 #爸爸活 #非绿 #线下 #金主爸爸 https://t.co/7xoS0xBwSR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 871,
+        "media_key": "3_2082746388975435776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdmzlAbwAA1yaR.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082746388954378240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdmzk7acAAoGHh.jpg",
+        "width": 1018
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082746388979625984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdmzlBbsAAaW7k.jpg",
+        "width": 1702
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2082746388945981440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdmzk5aUAABXHn.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082746388975435776",
+            "3_2082746388954378240",
+            "3_2082746388979625984",
+            "3_2082746388945981440"
+          ]
+        },
+        "author_id": "2059326143640276992",
+        "conversation_id": "2082746407346376710",
+        "created_at": "2026-07-30T08:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082746407346376710"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "门槛"
+            },
+            {
+              "end": 47,
+              "start": 43,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 52,
+              "start": 48,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 56,
+              "start": 53,
+              "tag": "非绿"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "线下"
+            },
+            {
+              "end": 66,
+              "start": 61,
+              "tag": "金主爸爸"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xoS0xBwSR",
+              "end": 90,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082746407346376710/photo/1",
+              "media_key": "3_2082746388975435776",
+              "start": 67,
+              "url": "https://t.co/7xoS0xBwSR"
+            },
+            {
+              "display_url": "pic.x.com/7xoS0xBwSR",
+              "end": 90,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082746407346376710/photo/1",
+              "media_key": "3_2082746388954378240",
+              "start": 67,
+              "url": "https://t.co/7xoS0xBwSR"
+            },
+            {
+              "display_url": "pic.x.com/7xoS0xBwSR",
+              "end": 90,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082746407346376710/photo/1",
+              "media_key": "3_2082746388979625984",
+              "start": 67,
+              "url": "https://t.co/7xoS0xBwSR"
+            },
+            {
+              "display_url": "pic.x.com/7xoS0xBwSR",
+              "end": 90,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082746407346376710/photo/1",
+              "media_key": "3_2082746388945981440",
+              "start": 67,
+              "url": "https://t.co/7xoS0xBwSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082746407346376710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "置顶🔝\n没钱买药了总之我要下海，求求宝宝们互转！可以和门槛妹还有同类互关互转！#门槛 #门槛妹 #爸爸活 #非绿 #线下 #金主爸爸 https://t.co/7xoS0xBwSR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082746388975435776",
+            "3_2082746388954378240",
+            "3_2082746388979625984",
+            "3_2082746388945981440"
+          ],
+          "media_source_tweet_id": [
+            "2082746407346376710",
+            "2082746407346376710",
+            "2082746407346376710",
+            "2082746407346376710"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2082747362972438871",
+        "created_at": "2026-07-30T08:37:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082747362972438871"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 57,
+              "start": 54,
+              "tag": "门槛"
+            },
+            {
+              "end": 62,
+              "start": 58,
+              "tag": "门槛妹"
+            },
+            {
+              "end": 67,
+              "start": 63,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 71,
+              "start": 68,
+              "tag": "非绿"
+            },
+            {
+              "end": 75,
+              "start": 72,
+              "tag": "线下"
+            },
+            {
+              "end": 81,
+              "start": 76,
+              "tag": "金主爸爸"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2059326143640276992",
+              "start": 3,
+              "username": "Huhiosc3x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xoS0xBwSR",
+              "end": 105,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082746407346376710/photo/1",
+              "media_key": "3_2082746388975435776",
+              "start": 82,
+              "url": "https://t.co/7xoS0xBwSR"
+            },
+            {
+              "display_url": "pic.x.com/7xoS0xBwSR",
+              "end": 105,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082746407346376710/photo/1",
+              "media_key": "3_2082746388954378240",
+              "start": 82,
+              "url": "https://t.co/7xoS0xBwSR"
+            },
+            {
+              "display_url": "pic.x.com/7xoS0xBwSR",
+              "end": 105,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082746407346376710/photo/1",
+              "media_key": "3_2082746388979625984",
+              "start": 82,
+              "url": "https://t.co/7xoS0xBwSR"
+            },
+            {
+              "display_url": "pic.x.com/7xoS0xBwSR",
+              "end": 105,
+              "expanded_url": "https://x.com/Huhiosc3x/status/2082746407346376710/photo/1",
+              "media_key": "3_2082746388945981440",
+              "start": 82,
+              "url": "https://t.co/7xoS0xBwSR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082747362972438871",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082746407346376710",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Huhiosc3x: 置顶🔝\n没钱买药了总之我要下海，求求宝宝们互转！可以和门槛妹还有同类互关互转！#门槛 #门槛妹 #爸爸活 #非绿 #线下 #金主爸爸 https://t.co/7xoS0xBwSR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 173,
+          "like_count": 3458,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 449
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-26T17:32:17.000Z",
+        "description": "可以叫我hh｜同类互fo大欢迎｜被禁评了回复用引用｜餐券顺女，友跨｜清了波没有回关的如果有误清请务必私信告知我！不会单取任何人！ | 过🚪口令红包赞赏码都可以",
+        "id": "2059326143640276992",
+        "location": "🚪88/128/520/1314",
+        "name": "Huhio",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059327200395190273/aPIop2p8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 170,
+          "like_count": 1156,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 900
+        },
+        "url": "",
+        "username": "Huhiosc3x",
+        "verified": false
+      }
+    ]
+  }
+}

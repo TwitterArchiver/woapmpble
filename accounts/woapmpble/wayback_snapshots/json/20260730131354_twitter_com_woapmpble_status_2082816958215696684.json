@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082439359534673920"
+      ],
+      "media_source_tweet_id": [
+        "2082439377070981394"
+      ]
+    },
+    "author_id": "2067599818109984768",
+    "conversation_id": "2082816958215696684",
+    "created_at": "2026-07-30T13:13:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:13:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082816958215696684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1965304526447280128",
+          "start": 3,
+          "username": "foraaa0318"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JAKh93j23Z",
+          "end": 39,
+          "expanded_url": "https://x.com/foraaa0318/status/2082439377070981394/photo/1",
+          "media_key": "3_2082439359534673920",
+          "start": 16,
+          "url": "https://t.co/JAKh93j23Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082816958215696684",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 746
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082439377070981394",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @foraaa0318: https://t.co/JAKh93j23Z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3800,
+        "media_key": "3_2082439359534673920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZPkHNbMAAZRGk.jpg",
+        "width": 2658
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082439359534673920"
+          ]
+        },
+        "author_id": "1965304526447280128",
+        "conversation_id": "2082439377070981394",
+        "created_at": "2026-07-29T12:13:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:13:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082439377070981394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JAKh93j23Z",
+              "end": 23,
+              "expanded_url": "https://x.com/foraaa0318/status/2082439377070981394/photo/1",
+              "media_key": "3_2082439359534673920",
+              "start": 0,
+              "url": "https://t.co/JAKh93j23Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082439377070981394",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1504,
+          "impression_count": 88089,
+          "like_count": 13083,
+          "quote_count": 20,
+          "reply_count": 1,
+          "retweet_count": 746
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/JAKh93j23Z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082439359534673920"
+          ],
+          "media_source_tweet_id": [
+            "2082439377070981394"
+          ]
+        },
+        "author_id": "2067599818109984768",
+        "conversation_id": "2082816958215696684",
+        "created_at": "2026-07-30T13:13:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:13:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082816958215696684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965304526447280128",
+              "start": 3,
+              "username": "foraaa0318"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JAKh93j23Z",
+              "end": 39,
+              "expanded_url": "https://x.com/foraaa0318/status/2082439377070981394/photo/1",
+              "media_key": "3_2082439359534673920",
+              "start": 16,
+              "url": "https://t.co/JAKh93j23Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082816958215696684",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 746
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082439377070981394",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @foraaa0318: https://t.co/JAKh93j23Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 173,
+          "like_count": 3584,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T06:41:32.000Z",
+        "description": "main→@Chan03180",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 5,
+                "username": "Chan03180"
+              }
+            ]
+          }
+        },
+        "id": "1965304526447280128",
+        "name": "親愛なる",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020905305950076928/X5p40ZJQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7150,
+          "following_count": 53,
+          "like_count": 1629,
+          "listed_count": 17,
+          "media_count": 311,
+          "tweet_count": 1518
+        },
+        "url": "",
+        "username": "foraaa0318",
+        "verified": false
+      }
+    ]
+  }
+}

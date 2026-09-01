@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2082334442253910104",
+    "created_at": "2026-07-31T02:09:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T03:09:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083012079058059752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2068738199212679168",
+          "start": 0,
+          "username": "yyy_qqqqqqqqq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083012079058059752",
+    "in_reply_to_user_id": "2068738199212679168",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083000382931030109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyy_qqqqqqqqq 蹭蹭蹭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2082334442253910104",
+        "created_at": "2026-07-31T02:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083012079058059752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2068738199212679168",
+              "start": 0,
+              "username": "yyy_qqqqqqqqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083012079058059752",
+        "in_reply_to_user_id": "2068738199212679168",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083000382931030109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyy_qqqqqqqqq 蹭蹭蹭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068738199212679168",
+        "conversation_id": "2082334442253910104",
+        "created_at": "2026-07-31T01:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T02:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083000382931030109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2067599818109984768",
+              "start": 0,
+              "username": "woapmpble"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083000382931030109",
+        "in_reply_to_user_id": "2067599818109984768",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082334442253910104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woapmpble 摸摸摸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 177,
+          "like_count": 3608,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 459
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-21T16:51:01.000Z",
+        "description": "突然就很想说废话。",
+        "id": "2068738199212679168",
+        "name": "yuanshenniubi",
+        "pinned_tweet_id": "2081634559490498708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081418385569861632/i8uBO3dA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 11,
+          "like_count": 296,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "yyy_qqqqqqqqq",
+        "verified": false
+      }
+    ]
+  }
+}

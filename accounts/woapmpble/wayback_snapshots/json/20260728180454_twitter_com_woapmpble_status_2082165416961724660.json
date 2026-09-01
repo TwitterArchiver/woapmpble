@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2067599818109984768",
+    "conversation_id": "2082140601995375044",
+    "created_at": "2026-07-28T18:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T19:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082165416961724660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2072715261141270528",
+          "start": 0,
+          "username": "Bellalu3jnx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082165416961724660",
+    "in_reply_to_user_id": "2072715261141270528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082140601995375044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bellalu3jnx 美味。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082140577584574464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOU_0tta8AA2db7.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2082140577379004420",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOU_0s8aMAQZJ3W.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067599818109984768",
+        "conversation_id": "2082140601995375044",
+        "created_at": "2026-07-28T18:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T19:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082165416961724660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2072715261141270528",
+              "start": 0,
+              "username": "Bellalu3jnx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082165416961724660",
+        "in_reply_to_user_id": "2072715261141270528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082140601995375044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bellalu3jnx 美味。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082140577584574464",
+            "3_2082140577379004420"
+          ]
+        },
+        "author_id": "2072715261141270528",
+        "conversation_id": "2082140601995375044",
+        "created_at": "2026-07-28T16:26:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T17:26:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082140601995375044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TRdXRZcwVY",
+              "end": 32,
+              "expanded_url": "https://x.com/Bellalu3jnx/status/2082140601995375044/photo/1",
+              "media_key": "3_2082140577584574464",
+              "start": 9,
+              "url": "https://t.co/TRdXRZcwVY"
+            },
+            {
+              "display_url": "pic.x.com/TRdXRZcwVY",
+              "end": 32,
+              "expanded_url": "https://x.com/Bellalu3jnx/status/2082140601995375044/photo/1",
+              "media_key": "3_2082140577379004420",
+              "start": 9,
+              "url": "https://t.co/TRdXRZcwVY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082140601995375044",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "药物重度依赖症… https://t.co/TRdXRZcwVY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-06-18T13:33:02.000Z",
+        "description": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 17,
+                "username": "yuki_youji"
+              }
+            ]
+          }
+        },
+        "id": "2067599818109984768",
+        "location": "子宫",
+        "name": "Womb",
+        "pinned_tweet_id": "2080633940612985194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080924732661362689/UAkMAXtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 169,
+          "like_count": 3230,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 403
+        },
+        "url": "",
+        "username": "woapmpble",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-02T16:14:16.000Z",
+        "description": "世界和平\n来互fo呀",
+        "id": "2072715261141270528",
+        "name": "Bellalu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081742587665534976/PxsIjj7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 18,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "Bellalu3jnx",
+        "verified": false
+      }
+    ]
+  }
+}
