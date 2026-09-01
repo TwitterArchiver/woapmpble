@@ -1,7 +1,7 @@
 {
   "name": "Womb",
   "username": "@woapmpble",
-  "bio": "一般路过/重抑中焦/od/狗狗妻子@yuki_youji",
+  "bio": "一般路过/重抑中焦/od/最爱妻子\n@nobuyasuyuki",
   "location": "子宫",
   "link": "",
   "avatar": "avatar/avatar.jpg",
@@ -10,9 +10,9 @@
   "bio_entities": {
     "mentions": [
       {
-        "end": 28,
-        "start": 17,
-        "username": "yuki_youji"
+        "end": 31,
+        "start": 18,
+        "username": "nobuyasuyuki"
       }
     ]
   },
